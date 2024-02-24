@@ -1,0 +1,472 @@
+{
+  "trainingPhrases": [ {
+    "id": "d5694330-98b8-46fb-84a5-8ba298d1bb4f",
+    "parts": [ {
+      "text": "I'm not acquainted with this particular address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "e85e644e-7383-479b-a412-6447b4253d13",
+    "parts": [ {
+      "text": "Honestly, I have doubts about the address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "fb60850d-81af-41e6-b546-fe5787f0cea5",
+    "parts": [ {
+      "text": "This address is completely new to me.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "e3b119e6-d6af-4324-a9f8-c4b28b33df89",
+    "parts": [ {
+      "text": "It's outside my knowledge or experience.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "1b35b214-5378-412c-b617-13a417fcf736",
+    "parts": [ {
+      "text": "I dont know",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "d99563d7-ae2e-4011-93e0-2dd013576411",
+    "parts": [ {
+      "text": "Seriously, I'm not sure about the address",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "ab0d3b0c-c53d-4a3a-9c9c-d80671c50ae4",
+    "parts": [ {
+      "text": "What?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "5079c5f2-8539-456b-91e6-0aaf2f532581",
+    "parts": [ {
+      "text": "What's that?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "fbedd7b1-73c3-441d-b33d-1edbe44f2aba",
+    "parts": [ {
+      "text": "What do you mean?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "25bccd3a-bbaa-4a38-9278-5e5780b4e61a",
+    "parts": [ {
+      "text": "I've never heard of it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "57bc46b6-5bac-45ca-9d7f-cfe82fab77ad",
+    "parts": [ {
+      "text": "It's unfamiliar to me.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "33823ee4-8634-4ced-a89a-7bc6c9452b6c",
+    "parts": [ {
+      "text": "I'm not familiar with it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "b329b6a5-687c-4ba3-a833-2316a9d2da7c",
+    "parts": [ {
+      "text": "I'm uncertain.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "2e0dbac2-2294-4ea1-a567-1b76f0b62810",
+    "parts": [ {
+      "text": "I'm not positive.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "79010b9d-29b0-4b26-b08f-9a3087e76ef0",
+    "parts": [ {
+      "text": "I'm not certain.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "b61e5821-506a-4b0e-a027-6a03c680db95",
+    "parts": [ {
+      "text": "I might need to search for it later.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "95515829-dd45-4a0a-b537-ad0ff8fdaebc",
+    "parts": [ {
+      "text": "Perhaps I should seek for it later.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "f3005d4d-cd36-45e9-85d8-d0ee945dbdbb",
+    "parts": [ {
+      "text": "Skip this step if you don't mind.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "5ad7a47e-69e0-448b-b9ff-781572a82115",
+    "parts": [ {
+      "text": "I'd prefer omit this action.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "72c471b6-d7fb-4d9c-b5f3-967561b6847f",
+    "parts": [ {
+      "text": "I like to omit this step.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "e649207c-b1ee-460d-9030-d93dff5ac15e",
+    "parts": [ {
+      "text": "What if I don't have?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "fe39be0c-1afd-4ab8-b1e3-66a397a16031",
+    "parts": [ {
+      "text": "I just wanna get past it",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "ccf48a12-69eb-44e2-bc2b-767db8491c11",
+    "parts": [ {
+      "text": "I'd rather skip it",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "9b677cf1-2a82-44af-b49f-88335732bc6f",
+    "parts": [ {
+      "text": "I'd rather skip this step",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "53fa7c70-932d-481c-8d70-249bdcb7fd36",
+    "parts": [ {
+      "text": "Anyway I can skip it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "760368c4-3d52-45c4-b0d0-9a88b194361b",
+    "parts": [ {
+      "text": "Really, I'm not sure about it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "45ec6e5b-f6a5-48ce-a495-0d7068746dd3",
+    "parts": [ {
+      "text": "I'm not sure about it at all.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "ed064c9b-ed8c-4cf3-9268-4148f0797a68",
+    "parts": [ {
+      "text": "Never have I seen it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "712ade60-ca7a-4d73-be12-2889c2fdce1c",
+    "parts": [ {
+      "text": "What you mean is unclear to me.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "f3b212d8-1b8d-4d12-9b1a-d24f07359fb5",
+    "parts": [ {
+      "text": "Uncertain of what you mean.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7f7284e0-5c1a-48c0-a5c2-9cef98e979af",
+    "parts": [ {
+      "text": "I'm not currently carrying it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "1e55241c-17dd-46dc-83fd-9d90675b1e46",
+    "parts": [ {
+      "text": "It's not with me right now.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "2efa17d9-e5cf-4a64-ba36-597df236d448",
+    "parts": [ {
+      "text": "Pass.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "90690b90-b241-46fd-8792-d4a4b79038da",
+    "parts": [ {
+      "text": "I'd like to pass on it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "5c54a7e2-928f-4394-bcf2-596b0e327528",
+    "parts": [ {
+      "text": "I'd like to get past of it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "3d0fea00-9576-43ca-9205-2b09c0faa38a",
+    "parts": [ {
+      "text": "I'd like to skip it",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "b33ef0a6-d55b-48d9-b75e-d8040e427373",
+    "parts": [ {
+      "text": "I don't have it ",
+      "auto": true
+    }, {
+      "text": "at the moment",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "315de29e-ce50-412a-81e9-f2e2271ed9c0",
+    "parts": [ {
+      "text": "Right now, I don't have it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "6b32a488-b69a-4561-9c7e-fb62254a96f5",
+    "parts": [ {
+      "text": "I don't currently possess it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "1924455b-c059-4824-ac8b-b1a3a315edca",
+    "parts": [ {
+      "text": "I might have to look for it later",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7d33821e-2b0f-4da2-944d-d5a805ccbd4a",
+    "parts": [ {
+      "text": "I don't have it as of now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "14605eed-5dd0-4d50-b4b7-8c70c9044f94",
+    "parts": [ {
+      "text": "As of now I don't have it",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "185c119e-da55-47f7-a9da-a7717684f24d",
+    "parts": [ {
+      "text": "I am really unsure about it",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7939fe61-b473-4443-8141-f4c6b30ac592",
+    "parts": [ {
+      "text": "I really don't have any clue about that",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "bd0dd5ee-2bfd-4d96-a710-1035bc120a99",
+    "parts": [ {
+      "text": "I really don't know",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "c56e6be4-97ac-4c5a-a044-9efb75ee8887",
+    "parts": [ {
+      "text": "I'm clueless",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "9aa56368-81ba-4e6b-b37a-7e71cbdaa1b7",
+    "parts": [ {
+      "text": "I've no clue",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "2dad0e03-131e-4034-b6d4-898e55024953",
+    "parts": [ {
+      "text": "I'm quite unsure",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "e349ac40-b2ef-438b-b1c1-7cb72eb6ac99",
+    "parts": [ {
+      "text": "I'm still unsure.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "df9faf97-2945-47d3-ba00-af2df167bc92",
+    "parts": [ {
+      "text": "Skip.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "2ca50656-d161-4697-9ed3-bbd5a0028215",
+    "parts": [ {
+      "text": "Not sure what you mean."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "a37bba1b-c692-4aa9-bbc5-a802ef7d1acb",
+    "parts": [ {
+      "text": "I am not sure.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "ed1346dc-36e6-4976-afc9-e6e6ad2fd2d3",
+    "parts": [ {
+      "text": "I have never seen it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "5113d984-e157-49b5-a1c4-beb4caa4d260",
+    "parts": [ {
+      "text": "I don't have it on me now.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "08959433-1027-4d68-a627-b29c8131cb19",
+    "parts": [ {
+      "text": "I don't recognize it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "d792cac5-a572-40af-b840-6ebcfdcc9671",
+    "parts": [ {
+      "text": "I don't know what you mean.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "17653fcc-8546-4a40-aac9-2c0a8c70f1fb",
+    "parts": [ {
+      "text": "I don't know it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "8679d3a8-c895-4249-ae94-b16083554be8",
+    "parts": [ {
+      "text": "I have no idea.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  } ]
+}

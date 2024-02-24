@@ -1,0 +1,11 @@
+{
+  "name": "6cef1dc4-20d6-45e9-b102-02ce4132a34a",
+  "displayName": "prebuilt_components_address_collection_street_number",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-head",
+    "value": "sys-head"
+  } ],
+  "description": "Used to indicate this address element needs to be changed. Street_number indicates the precise street number.",
+  "numTrainingPhrases": 348
+}

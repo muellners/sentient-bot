@@ -1,0 +1,459 @@
+{
+  "trainingPhrases": [ {
+    "id": "3338871a-7f79-4b45-9a26-80e0d542cd22",
+    "parts": [ {
+      "text": "I don't recognize the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "5408b2e1-7912-4a3e-9c7f-9dd06301f8b3",
+    "parts": [ {
+      "text": "You are having a hard time understanding archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4493ca63-a041-4cb7-b57e-71d50b8ec31c",
+    "parts": [ {
+      "text": "I want to go ahead with alternate archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "eaf314c3-26ff-4407-9104-26dfe48d39dd",
+    "parts": [ {
+      "text": "Let's go again for the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "759d5751-3554-40f2-b959-00b97380d8fb",
+    "parts": [ {
+      "text": "I would really appreciate if you can change the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a402c579-5d3f-49ad-bbcf-f0efc5b63e5d",
+    "parts": [ {
+      "text": "It's better if we change the archipelago as it is wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "572815ba-f6e8-4222-a40b-e4fab3c93f2e",
+    "parts": [ {
+      "text": "Let's change the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "9853afaf-26f7-4c2b-89b0-adcfa03d7838",
+    "parts": [ {
+      "text": "How about altering archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "00f5b12e-12d5-4429-af30-0c2eab8e964d",
+    "parts": [ {
+      "text": "I believe you have the wrong archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4ca05065-6aee-4f9a-a69d-d603a71144f5",
+    "parts": [ {
+      "text": "Help me change archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "1e02e56f-10e4-4730-b5d9-f713dfdce122",
+    "parts": [ {
+      "text": "How can I change the archipelago?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b49b3c86-110b-4e17-b388-0b67e9156113",
+    "parts": [ {
+      "text": "You might wanna reconsider taking new archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "902bce51-f455-4f46-9393-060c2deea244",
+    "parts": [ {
+      "text": "The archipelago you identified is not right.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "37f1dc2c-9083-4e0a-aab6-5cc756e309c7",
+    "parts": [ {
+      "text": "Is there a way I can alter the archipelago?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7410a46d-6441-4a20-b0a3-ce4a66dba65a",
+    "parts": [ {
+      "text": "The archipelago seems bit off.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "eddb9745-b5e3-450d-833f-8d96248d841d",
+    "parts": [ {
+      "text": "The archipelago is inaccurate.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "72b7a577-d1a7-408a-bf4b-3b97f867bc87",
+    "parts": [ {
+      "text": "I would like to update the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "188ef34d-8b8a-4d0a-a662-92ca9044dfdd",
+    "parts": [ {
+      "text": "I told the wrong archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a56b99a8-644b-4a41-86fd-f6de1c153895",
+    "parts": [ {
+      "text": "Archipelago looks incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "386b4c62-5eda-443f-84e0-2b6774147970",
+    "parts": [ {
+      "text": "The archipelago is different.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b6176107-b666-4c72-a165-0ccda49e370e",
+    "parts": [ {
+      "text": "I think archipelago is invalid.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "1462eef1-615c-4db0-9c1b-e944d25e7c1e",
+    "parts": [ {
+      "text": "Everything else looks good except the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "9daae599-913e-4f42-8449-66b579520c30",
+    "parts": [ {
+      "text": "the archipelago is missing in the address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f1c1d581-c659-4345-8c64-7b2916f5fdfd",
+    "parts": [ {
+      "text": "Please correct my archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "81fdc4ad-02bc-4e65-a174-0a9e187937d7",
+    "parts": [ {
+      "text": "The archipelago needs to be changed.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6371c365-e4f8-470f-8cfd-1d5fd7414e15",
+    "parts": [ {
+      "text": "you are just wrong about the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "9fbdacb9-308f-4d44-acc9-164c1b1daded",
+    "parts": [ {
+      "text": "Only the archipelago was incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6e9cb544-2137-4b16-9930-d0b774b30fe5",
+    "parts": [ {
+      "text": "I'm sorry, I mistakenly provided wrong archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "737c8d60-ca62-4dcb-aaa2-83b6a445b444",
+    "parts": [ {
+      "text": "Unfortunately, I said a different archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "54bc0e6b-4159-4d83-89a2-dedf51b24dc6",
+    "parts": [ {
+      "text": "you guessed the archipelago incorrectly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6b56551b-9329-47f3-a1cd-41e36803f838",
+    "parts": [ {
+      "text": "the archipelago is wrong. please change it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "768e2bb6-93ed-4d76-8642-d5a4d7452f1c",
+    "parts": [ {
+      "text": "archipelago, please.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7e66f096-c557-4482-8535-3ddf98351f42",
+    "parts": [ {
+      "text": "that's not the right archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6532ff1e-4e7b-4624-8806-95ecee045446",
+    "parts": [ {
+      "text": "change the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "00daa9d6-8592-4a92-ad9f-beb82aa7c80e",
+    "parts": [ {
+      "text": "update the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "63e355c8-df0f-480a-89fa-5de93baffd85",
+    "parts": [ {
+      "text": "Archipelago is incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a5f58c7b-5f68-4329-9e87-1e723bb3eb40",
+    "parts": [ {
+      "text": "You are just wrong about my islands location.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "c8289ed8-c5c5-4ecd-95b3-850149172c3c",
+    "parts": [ {
+      "text": "Please change archipelago address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7fc1dd70-866e-4873-aaf0-77deec3e962c",
+    "parts": [ {
+      "text": "only island's address was incorrect. please update that one.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "cdca2513-7037-41f6-ad1e-824c0eb70e1b",
+    "parts": [ {
+      "text": "it is the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f191f163-605d-49cd-bf43-04a1e251c75a",
+    "parts": [ {
+      "text": "my islands address is wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4a201ee8-83fe-482c-97ab-a0069a459280",
+    "parts": [ {
+      "text": "archipelago",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "bd9ce5d5-5139-4cb4-9066-4aef54d9479a",
+    "parts": [ {
+      "text": "islands address",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d381e1ac-98b4-4e5d-b06d-840d3acb34eb",
+    "parts": [ {
+      "text": "group of islands",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "71b87cb1-8bb4-49cd-ba46-230d1171e18b",
+    "parts": [ {
+      "text": "can you update a group of islands please?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d898d243-7c63-4027-9b5f-3645cc45ab3e",
+    "parts": [ {
+      "text": "You did not get my group of islands address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "eb6f13b5-1729-4bfd-8f67-ca78899f4f3e",
+    "parts": [ {
+      "text": "You did not guessed my islands address correctly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "5ef3b793-1d97-40aa-a824-2df360402f8d",
+    "parts": [ {
+      "text": "Can you please change my archipelago?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "e88bc874-a1d5-4cd3-8a0a-d8b4e62bab0c",
+    "parts": [ {
+      "text": "my archipelago is not correct.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "655b5690-dd67-43a7-a7ef-febbaf93a409",
+    "parts": [ {
+      "text": "I want to update the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "17a1f701-84c7-44bc-a669-12868c33b2c0",
+    "parts": [ {
+      "text": "Archiepalgo name needs to be changed.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "3404e647-b756-449c-a817-4a7a4ecf16fd",
+    "parts": [ {
+      "text": "I am not sure about the archipelago name.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6b94867b-86b3-4774-947f-648c92ff203b",
+    "parts": [ {
+      "text": "I want to change the archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "9ffe488d-bcc7-4687-a490-ff6a66055d3c",
+    "parts": [ {
+      "text": "You got archipelago incorrectly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a36ba888-daf7-4059-a30d-167ee446a6e0",
+    "parts": [ {
+      "text": "Archipelago is wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "2a2baba5-0a1e-4f7c-b467-0108c1578165",
+    "parts": [ {
+      "text": "The archipelago you found is not the part of the address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "3e754a4b-dd00-46b5-aed8-c28416616c8c",
+    "parts": [ {
+      "text": "This is not my archipelago.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  } ]
+}

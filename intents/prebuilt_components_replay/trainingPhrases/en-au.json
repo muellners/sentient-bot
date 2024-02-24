@@ -1,0 +1,241 @@
+{
+  "trainingPhrases": [ {
+    "id": "92b1ee61-204f-47c5-a426-db3e0074076a",
+    "parts": [ {
+      "text": "Could you speak a little louder/slower, please?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "700a2c2d-5a11-48d5-b976-ef5d6e5c9735",
+    "parts": [ {
+      "text": "Could you please rephrase that?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "881e1601-93d1-4bf9-a0ac-5ba01e8ceae4",
+    "parts": [ {
+      "text": "What was that"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e2a7ded6-c59c-40d3-8960-453c0455fdc1",
+    "parts": [ {
+      "text": "What did you say"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "490defc8-7147-42f5-b2d6-d13fbc6ed4df",
+    "parts": [ {
+      "text": "What"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "b48c098f-d1d4-434f-ab4a-126fd8971f1d",
+    "parts": [ {
+      "text": "Say it again"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "9d544e44-c5e0-401a-9a50-28e95f1acc78",
+    "parts": [ {
+      "text": "Run it back"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "218df1db-7aa8-4ddf-822f-3d5a8ccc63d9",
+    "parts": [ {
+      "text": "Restate that"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "02e150b1-cd0b-4ffb-b732-d08564132963",
+    "parts": [ {
+      "text": "replay"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "bf68e886-f011-4f61-be1f-07fb81b062a6",
+    "parts": [ {
+      "text": "Repeat that please"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0ab92dd1-a3ba-4d8c-8440-add71a359c30",
+    "parts": [ {
+      "text": "Repeat"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "b5cfbb38-0937-47a6-9be5-faaed213c972",
+    "parts": [ {
+      "text": "Reiterate"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "75030944-419d-4fd2-a319-7c6cdd2baf91",
+    "parts": [ {
+      "text": "Recap"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "53442fca-adcb-426d-b6ff-6793a012d2d4",
+    "parts": [ {
+      "text": "Please say that again."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "9ccc87c8-c727-4944-9420-c83af3dddf2f",
+    "parts": [ {
+      "text": "please let me know one more time."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6d2c1be1-4e9b-41fd-9b1b-60985bf74d3d",
+    "parts": [ {
+      "text": "One more time"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f814c406-6240-45a6-a437-471c1a4c72a2",
+    "parts": [ {
+      "text": "Once again"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "1f490481-c90e-4387-9d60-0eeea1c3e95a",
+    "parts": [ {
+      "text": "I'm sorry, I didn't understand you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "3967327f-344f-4f83-bd79-cff0aea0bcae",
+    "parts": [ {
+      "text": "I'm sorry, I didn't hear you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e828df17-3f1f-4949-a01b-b52555fbb8cc",
+    "parts": [ {
+      "text": "I don't understand."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f2902b86-931d-4086-87ed-7363b1b36f25",
+    "parts": [ {
+      "text": "I don't understand you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "69ff882f-da88-4c1a-91d7-e8040f887995",
+    "parts": [ {
+      "text": "I don't know what you said."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "bfe5e637-eeab-4545-8623-f55289c5fa06",
+    "parts": [ {
+      "text": "I didn't understand that."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "5412d1d7-8e2d-45b0-8c66-0a602b857ee0",
+    "parts": [ {
+      "text": "I didn't hearr you correctly."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6bb6a015-9a7a-4cd9-a681-f7b344f62c76",
+    "parts": [ {
+      "text": "I didn't get that."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "c8e1c50b-cb5e-45ce-b375-8c0416b33e15",
+    "parts": [ {
+      "text": "I didn't catch that."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d875361e-8b87-4c9b-a22f-9e5f05276bee",
+    "parts": [ {
+      "text": "I can't hear you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0212829a-26f8-423c-8b25-b5a0d438d08b",
+    "parts": [ {
+      "text": "Huh"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "b2b2ebde-2463-4f9f-b0ca-c2e1561de5e8",
+    "parts": [ {
+      "text": "Echo"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "67f1f1de-a3e4-4e97-8a37-831edd2fccfc",
+    "parts": [ {
+      "text": "Could you say that again?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "257ea829-26b5-43b9-a497-60f254242763",
+    "parts": [ {
+      "text": "Could you repeat that?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f1a863e3-dd38-4408-9d0d-10a6c078f439",
+    "parts": [ {
+      "text": "can you replay"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d447b557-b928-4e8b-b5c1-d24f7eb686a5",
+    "parts": [ {
+      "text": "can you reiterate everything you just said?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "13102811-9d5b-4560-9806-b5dac9239f01",
+    "parts": [ {
+      "text": "Again"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  } ]
+}

@@ -1,0 +1,241 @@
+{
+  "trainingPhrases": [ {
+    "id": "7617975a-9a45-47b8-9bb9-9d1ed94ad70a",
+    "parts": [ {
+      "text": "Could you speak a little louder/slower, please?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "c231728f-9d6f-4afe-b187-5c2c7afae0e5",
+    "parts": [ {
+      "text": "Could you please rephrase that?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "bb7e362c-158a-47df-b013-1f644ee7ae23",
+    "parts": [ {
+      "text": "What was that"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "4ef2b20e-cc02-4e9d-b0eb-5172c707ef6d",
+    "parts": [ {
+      "text": "What did you say"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "16099e10-5e83-41f2-8e45-90f17df08fa2",
+    "parts": [ {
+      "text": "What"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "61386eff-60cb-419b-9d53-30167fc6f7d5",
+    "parts": [ {
+      "text": "Say it again"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "30c91035-9a84-4da2-ab30-868bc05ca824",
+    "parts": [ {
+      "text": "Run it back"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "f9412ce6-40ca-4af7-a93f-77f65d95219f",
+    "parts": [ {
+      "text": "Restate that"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "517b8d2e-9ce5-46b6-8559-a0f67fa1060e",
+    "parts": [ {
+      "text": "replay"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "82eefb97-cafb-4c28-b2fc-345f725c77e0",
+    "parts": [ {
+      "text": "Repeat that please"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "c8191310-98fd-4cb0-bd29-1d562c73a8bb",
+    "parts": [ {
+      "text": "Repeat"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "acd7c8fe-e2ef-4899-9fb0-34813fe94a14",
+    "parts": [ {
+      "text": "Reiterate"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "baa8ab3b-c51f-41b9-ae70-3ce7dc2b5c8f",
+    "parts": [ {
+      "text": "Recap"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "12308859-d9ae-47f7-b5c9-8af476083a0f",
+    "parts": [ {
+      "text": "Please say that again."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "613ba755-5687-4616-a3c5-1d75e9973c76",
+    "parts": [ {
+      "text": "please let me know one more time."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "3a89f345-ff9c-422c-9c43-42c6e8f999cb",
+    "parts": [ {
+      "text": "One more time"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "7d22db67-c6b9-4280-908e-f18263d6dc2a",
+    "parts": [ {
+      "text": "Once again"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "b91afd30-06f6-4cce-a8c9-e70ea2d133b2",
+    "parts": [ {
+      "text": "I'm sorry, I didn't understand you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "3e775a3d-cb06-4989-ad88-5f2a4a04c682",
+    "parts": [ {
+      "text": "I'm sorry, I didn't hear you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "39b63528-f43a-41cd-a92a-4e02e516a309",
+    "parts": [ {
+      "text": "I don't understand."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "901cbc42-3ab6-496d-a300-b6f6cac15e4f",
+    "parts": [ {
+      "text": "I don't understand you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "699847c6-f8a8-4a6d-afe0-744b255ef50f",
+    "parts": [ {
+      "text": "I don't know what you said."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "1611a91e-f130-4ee9-92ea-9a251be43922",
+    "parts": [ {
+      "text": "I didn't understand that."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "eb3447c9-ba7c-4979-8a6d-469797b93f53",
+    "parts": [ {
+      "text": "I didn't hearr you correctly."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "c01ec098-a522-4e1a-bdf2-ed63c2389e3f",
+    "parts": [ {
+      "text": "I didn't get that."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "75635a14-7cc0-4eda-874c-59b415d69320",
+    "parts": [ {
+      "text": "I didn't catch that."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "e9f4ed08-6e3f-493b-928b-6228048ad2aa",
+    "parts": [ {
+      "text": "I can't hear you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "8bd36805-c401-4844-903a-d2167074d321",
+    "parts": [ {
+      "text": "Huh"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "06d429d4-c4f4-401e-a712-c0a7d63fae8d",
+    "parts": [ {
+      "text": "Echo"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "5fec56a7-666e-43de-91f6-b3eb1479da1a",
+    "parts": [ {
+      "text": "Could you say that again?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "52ada1b6-35fb-4fd9-aada-dbb5adfeb2f6",
+    "parts": [ {
+      "text": "Could you repeat that?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "12371f56-ad05-454c-bab7-79c365c5fcb1",
+    "parts": [ {
+      "text": "can you replay"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "8ba75ccf-f492-4c89-9546-b5cdd203f2e4",
+    "parts": [ {
+      "text": "can you reiterate everything you just said?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "0557b966-55ec-430e-89f2-d0402d7590e9",
+    "parts": [ {
+      "text": "Again"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  } ]
+}

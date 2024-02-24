@@ -1,0 +1,322 @@
+{
+  "trainingPhrases": [ {
+    "id": "932fd8fe-c91d-4d1d-8eb8-1f22380b8455",
+    "parts": [ {
+      "text": "It's the correct spot.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "aff54ab1-50fd-4e03-b8ff-042cbbb16a5e",
+    "parts": [ {
+      "text": "I'm convinced it's the accurate spot.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "72ad83e4-131b-4df0-bb24-49577f31c0cc",
+    "parts": [ {
+      "text": "There's no mistaking this as the right location.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f633b0d2-95f5-42c3-939d-c882faec6005",
+    "parts": [ {
+      "text": "Alright the address looks good",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "1e5b5a7f-2f29-4cab-b3dc-2afb00a1651a",
+    "parts": [ {
+      "text": "It's the accurate place."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "9ca18298-a1c7-4aa2-ac07-714470aaab46",
+    "parts": [ {
+      "text": "You can proceed with this address."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "251ccb2e-1e18-4710-885c-c1186d003d1e",
+    "parts": [ {
+      "text": "I believe it is the right location."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "5bc7c68c-ccdd-4f36-b898-67b03af09b27",
+    "parts": [ {
+      "text": "This looks fantastic."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6c914118-8cab-4313-be25-4e6ef5e3f521",
+    "parts": [ {
+      "text": "Your prediction is perfect."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0ed0cf07-54a7-4913-8244-e4f0956940e0",
+    "parts": [ {
+      "text": "Totally"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0fb3c366-02e1-41fb-a57c-3e254eaeaa7b",
+    "parts": [ {
+      "text": "I'm in agreement with you totally."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "5208c800-9313-4ad7-9b5e-0e50acf4cbdf",
+    "parts": [ {
+      "text": "This is the right address."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f36bb513-29bf-4baf-b750-783ca9d2835e",
+    "parts": [ {
+      "text": "This is the exact location."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "de8c38bf-af55-47a1-8d83-05f33fafc555",
+    "parts": [ {
+      "text": "It is right location."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e531060f-2b68-4b93-864b-a17cbe424973",
+    "parts": [ {
+      "text": "Hand down, you are right."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "755ef238-2abd-4450-bc0b-ac096d41447a",
+    "parts": [ {
+      "text": "You guessed it perfectly."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "1f716cc6-afd0-4af9-a1cd-8da85bf43dcc",
+    "parts": [ {
+      "text": "agreed"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "a24099e2-dad5-455f-95c4-6c48f1cb455e",
+    "parts": [ {
+      "text": "I can't agree more."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "a0f8e4e2-8a48-4fc1-a876-2c72754c0283",
+    "parts": [ {
+      "text": "I don't agree anymore."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f8bcdfba-b7b4-48f5-973b-c2657cb6931a",
+    "parts": [ {
+      "text": "It's perfect."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "db199fcf-a22a-4961-b80c-db47f31138e7",
+    "parts": [ {
+      "text": "You are perfect."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "b44fa94f-5744-437c-b9ab-ccf497496b1f",
+    "parts": [ {
+      "text": "You are hundred percent right."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2f5eda35-0679-442b-969f-31657e3b5c3b",
+    "parts": [ {
+      "text": "This is the correct address."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e3f9e15e-83e8-4f3a-88a0-79f2402c7816",
+    "parts": [ {
+      "text": "Right"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2721e0e7-9904-4402-9d96-8da03b09bd60",
+    "parts": [ {
+      "text": "That's the one"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "c244ed5d-2fcf-4612-b175-ca97dd7a41c0",
+    "parts": [ {
+      "text": "This is it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "097054e0-5b0b-476a-b757-f0c5496e4a22",
+    "parts": [ {
+      "text": "It is my address"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "eab35e85-c544-4c1c-aa17-377f2189d56b",
+    "parts": [ {
+      "text": "This is the address I meant"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d579b16b-651b-4b53-ac38-1a05dc81e698",
+    "parts": [ {
+      "text": "ok"
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en-au"
+  }, {
+    "id": "37baf11b-437f-46c9-b3bd-3e75c8659d15",
+    "parts": [ {
+      "text": "That's my place"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "befc3028-0f4e-44b0-89a0-972e9225c641",
+    "parts": [ {
+      "text": "This is where they live"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "96778c73-f047-42e3-81dc-b531459e65e6",
+    "parts": [ {
+      "text": "This is where it needs to be delivered"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "cb4f8b26-193b-4896-9201-8a45b239d9d3",
+    "parts": [ {
+      "text": "Great"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "917144b1-026a-4b3a-b20f-da34cd90a238",
+    "parts": [ {
+      "text": "Seems alright"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "022252ec-d874-4b17-88e7-455fe5b71abc",
+    "parts": [ {
+      "text": "I think this is it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "88001b9e-8fe6-42bf-b311-653657560812",
+    "parts": [ {
+      "text": "Good"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "8c360ab6-2e5e-4e64-aa37-acad9ced4a59",
+    "parts": [ {
+      "text": "Fine"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "8270e5d5-3fb1-4959-ab1e-729fa7c64a31",
+    "parts": [ {
+      "text": "Move on"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "3cc152de-daa4-48a7-9f64-14e707f6b34e",
+    "parts": [ {
+      "text": "Proceed"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ae65e157-5799-4eff-acaa-ef7c3bdb4132",
+    "parts": [ {
+      "text": "Next"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "bf11e434-bc30-4947-a2c4-2d9b20b1727b",
+    "parts": [ {
+      "text": "Use it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "311a560d-3861-4d02-95ca-087f7cae664f",
+    "parts": [ {
+      "text": "I think so"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "139bea2d-5635-4bfa-94c6-c12f79506253",
+    "parts": [ {
+      "text": "Looks ok"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "fdf98250-11f4-4d4c-8cb9-7a2ee8de87eb",
+    "parts": [ {
+      "text": "Uh-huh"
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en-au"
+  }, {
+    "id": "4016d674-cbe7-4462-aef8-ff4c62017ab8",
+    "parts": [ {
+      "text": "okay"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  } ]
+}

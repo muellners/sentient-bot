@@ -1,0 +1,441 @@
+{
+  "trainingPhrases": [ {
+    "id": "ddfddb17-82cf-4cdf-990d-133cd5a15be5",
+    "parts": [ {
+      "text": "Town name looks bit different than I persumed",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b518c19f-ad64-476e-817b-0d3ea241cd5e",
+    "parts": [ {
+      "text": "It might be me but town name looks weird",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "37cab896-dc2a-4298-a42b-c5bce589bef1",
+    "parts": [ {
+      "text": "Town name looks really weird",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "387202f4-6bb2-450f-a9fe-63c442498cf5",
+    "parts": [ {
+      "text": "City looks somewhat invalid",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f5e84b68-e621-43fa-89c0-ea4849dd3495",
+    "parts": [ {
+      "text": "The district appears to be untrue",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "9b886770-dc6d-409a-a9e7-0140fc0633cd",
+    "parts": [ {
+      "text": "You might wanna reconsider town name",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "ed847790-665d-4522-af3a-7a785c7b40a7",
+    "parts": [ {
+      "text": "You might want to reconsider the village name",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "23e8c88a-401d-4ccd-a547-13d6f6d6951d",
+    "parts": [ {
+      "text": "Town name is not quite right",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7552004a-d533-4120-ae56-bad7aaea3acc",
+    "parts": [ {
+      "text": "City name is not quite right",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7bfda8be-f6c8-44ff-8f9d-6457aa502aa0",
+    "parts": [ {
+      "text": "The town appears to be unreliable.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "2b28d907-4b79-4eee-9fbf-30f9587dc3b5",
+    "parts": [ {
+      "text": "The district appears to be incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d0528d88-90bb-4541-9932-3a0b486af873",
+    "parts": [ {
+      "text": "Oh, you made a mistake with the village.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "42fb52ac-c5a0-49e6-8a8c-2c0f05c3b20e",
+    "parts": [ {
+      "text": "Oh, I see you got the city wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a2e34480-4567-42b8-96c4-2c63581ff1fd",
+    "parts": [ {
+      "text": "Oh, you misread the district.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d71c859f-d91f-4bdd-abd9-4369b626263f",
+    "parts": [ {
+      "text": "Oh, you misidentified the city.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "3ee60b09-d9a9-4013-88a4-6b0d2ec31bb3",
+    "parts": [ {
+      "text": "I believe I would choose another village.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "30c04a30-0a75-4b1e-a1ce-19c767eff695",
+    "parts": [ {
+      "text": "I believe I would choose a different town.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "3dfed5cb-17f0-44a0-a0d1-e26bc000dda3",
+    "parts": [ {
+      "text": "Help me alter the village because it is unjust.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "59ad1cbb-b934-48ad-9a5b-c1aaf404ff49",
+    "parts": [ {
+      "text": "Please help me alter the city since it is unjust.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "17f09ee5-027f-4265-9ee5-5843cfd4a90d",
+    "parts": [ {
+      "text": "Please assist me in changing the town, it's wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "3e534878-d332-4cff-88c9-539bf55554b7",
+    "parts": [ {
+      "text": "The district was incorrectly identified by you.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d8a92a92-8f7e-4bd8-9558-5c202c6fdded",
+    "parts": [ {
+      "text": "You're wrong about the city.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b4c2aac8-2694-4baf-9864-40d3ef380a80",
+    "parts": [ {
+      "text": "You misidentified the village.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "54471b10-31ad-4979-afc5-4948489b7ea6",
+    "parts": [ {
+      "text": "I've an issue with the city",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "5a2c756d-b230-42fe-ae50-3ec35f116ee2",
+    "parts": [ {
+      "text": "The town has been renamed so would want it to be changed",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "65aef389-d450-468e-8370-cd5b9c548ec2",
+    "parts": [ {
+      "text": "I think I would go with another village name.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "62802dcd-ced0-4338-9633-3b26e531a047",
+    "parts": [ {
+      "text": "The district is really not upto the mark.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b1655b02-bb9b-46a1-81b4-e7e02cc1274d",
+    "parts": [ {
+      "text": "oh you got the city wrong",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "88a04429-6b4a-4d4e-ba71-7282e87e7b69",
+    "parts": [ {
+      "text": "Changing the village would really work for me.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "579d2345-4873-406f-87e0-eb8eab49974d",
+    "parts": [ {
+      "text": "If you could change the town it would be really helpful.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4f205a1a-8b5f-43bf-b2a0-786db248374f",
+    "parts": [ {
+      "text": "I believe you have the incorrect city.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "678680be-2d18-40d4-9512-205b9c2ec811",
+    "parts": [ {
+      "text": "I believe you have the wrong district.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b3be5506-0d4d-4dd7-8701-32624c493d9f",
+    "parts": [ {
+      "text": "Is there anyway I can change the city as the ",
+      "auto": true
+    }, {
+      "text": "one",
+      "parameterId": "number",
+      "auto": true
+    }, {
+      "text": " you mentioned seems wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "9a729c0f-b8ca-4497-b7e4-7c71bb678c98",
+    "parts": [ {
+      "text": "Would be great if I can change the district.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "264c0cdb-cf6b-442e-b64e-831eff551566",
+    "parts": [ {
+      "text": "Help me change the village as it is wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4b798256-9e2a-41f4-a607-5ebacd212d26",
+    "parts": [ {
+      "text": "City is invalid",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4987482a-8877-4510-a661-eddd135cb3dd",
+    "parts": [ {
+      "text": "Town is inaccurate",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "fcf7f5d2-f465-41bf-b392-c8bc5302061d",
+    "parts": [ {
+      "text": "Village is inaccurate.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a3346402-4205-4104-bbef-fdc52ae2d3b6",
+    "parts": [ {
+      "text": "City you mentioned doesn't seems to be accurate.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "c9173dee-b2b6-4fae-aa5e-1bb15033b362",
+    "parts": [ {
+      "text": "I would like to change the town.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "066d5cd8-5405-4aa7-8489-0dcdf19070a3",
+    "parts": [ {
+      "text": "The village you mentioned seems bit off",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7141aa3c-9c3e-4bb0-9b51-285a3bc763b9",
+    "parts": [ {
+      "text": "City seems to be invalid",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "02da0845-b9e3-4e9b-bb11-3a2f34b3807b",
+    "parts": [ {
+      "text": "I would like to change the town name",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "239e2001-1b74-4dfa-8b7a-889674c525ac",
+    "parts": [ {
+      "text": "oops you got the city incorrect",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d5b07232-91d6-4cc7-bff7-09b00e74bd84",
+    "parts": [ {
+      "text": "I want to change my city name.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "61eff6a4-4527-4d32-ba65-aac71898a555",
+    "parts": [ {
+      "text": "I need to change my town name.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "62817d5c-e275-4181-8082-620529b7b03d",
+    "parts": [ {
+      "text": "You got the town wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7937d833-ca3f-4dd5-a2be-461c3d88f121",
+    "parts": [ {
+      "text": "You got the city wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "c9037691-d3a8-422f-bd6c-5790686d7f82",
+    "parts": [ {
+      "text": "Town is incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "599c64c2-1ce6-49fe-831a-126bbdb44fff",
+    "parts": [ {
+      "text": "City is incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6320a5c8-c840-4f90-91d5-65602ca623fd",
+    "parts": [ {
+      "text": "Update my town.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "914f85c1-523e-4a83-a3c2-bfe701de426d",
+    "parts": [ {
+      "text": "Update my city.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "5b95847e-8733-4f0d-86d0-4ac33b6c04dd",
+    "parts": [ {
+      "text": "That's not my town."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "1e79c630-5566-43ca-b947-c2aef430b863",
+    "parts": [ {
+      "text": "This is not my city.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  } ]
+}

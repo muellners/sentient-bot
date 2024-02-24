@@ -1,0 +1,247 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Hi! How are you doing?", "Hello! How can I help you?", "Good day! What can I do for you today?", "Greetings! How can I assist?" ]
+        },
+        "languageCode": "en"
+      }, {
+        "text": {
+          "text": [ "Hallo!", "Guten Tag!", "Ich grüße dich!" ]
+        },
+        "languageCode": "de"
+      }, {
+        "text": {
+          "text": [ "नमस्ते!", "नमस्कार!", "आपका दिन शुभ हो!" ]
+        },
+        "languageCode": "hi"
+      }, {
+        "text": {
+          "text": [ "Hallo!", "Guten Tag!", "Ich grüße dich!" ]
+        },
+        "languageCode": "de-de"
+      }, {
+        "text": {
+          "text": [ "Hi! How are you doing?", "Hello! How can I help you?", "Good day! What can I do for you today?", "Greetings! How can I assist?" ]
+        },
+        "languageCode": "en-ca"
+      }, {
+        "text": {
+          "text": [ "Hi! How are you doing?", "Hello! How can I help you?", "Good day! What can I do for you today?", "Greetings! How can I assist?" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "Habari! Unaendeleaje?", "Habari! Nikusaidie vipi?", "Siku njema! Je, nikufanyie nini leo?", "Salamu! Ninawezaje kusaidia?" ]
+        },
+        "languageCode": "sw"
+      }, {
+        "text": {
+          "text": [ "Hi! How are you doing?", "Hello! How can I help you?", "Good day! What can I do for you today?", "Greetings! How can I assist?" ]
+        },
+        "languageCode": "en-in"
+      }, {
+        "text": {
+          "text": [ "Salut !", "Bonjour !", "Salutations !", "Bienvenue !" ]
+        },
+        "languageCode": "fr"
+      }, {
+        "text": {
+          "text": [ "Hi! How are you doing?", "Hello! How can I help you?", "Good day! What can I do for you today?", "Greetings! How can I assist?" ]
+        },
+        "languageCode": "en-au"
+      }, {
+        "text": {
+          "text": [ "Hej!", "Dav!", "Goddag!", "Hejsa!" ]
+        },
+        "languageCode": "da"
+      }, {
+        "text": {
+          "text": [ "Hi! How are you doing?", "Hello! How can I help you?", "Good day! What can I do for you today?", "Greetings! How can I assist?" ]
+        },
+        "languageCode": "en-gb"
+      }, {
+        "text": {
+          "text": [ "Hallo!", "Goedendag!" ]
+        },
+        "languageCode": "nl"
+      } ]
+    },
+    "name": "ff163694-e6d8-4f43-82ad-34b4b2183089"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      }, {
+        "text": {
+          "text": [ "Ich verstehe deine Frage leider nicht.", "Entschuldige bitte, ich habe deine Frage nicht verstanden.", "Ich bin nicht so sicher, ob ich dich richtig verstanden habe.", "Leider kann ich nicht verstehen, was du von mir möchtest.", "Kannst du das noch mal anders formulieren?" ]
+        },
+        "languageCode": "de"
+      }, {
+        "text": {
+          "text": [ "मुझे समझ नहीं आया. क्या आप अपनी बात दोहरा सकते हैं?", "आपने क्या कहा, मुझे समझ नहीं आया. फिर से कहें?", "माफ़ करें, क्या आप अपनी बात दोहरा सकते हैं?", "माफ़ करें, क्या आप अपनी बात फिर से कह सकते हैं?", "क्या आप अपनी बात दोहरा सकते हैं?", "माफ़ करें, मुझे समझ नहीं आया|", "माफ़ करें, क्या कहा आपने?", "एक बार फिर से कह सकते हैं?", "क्या कहा आपने?", "एक बार फिर से कहिए?", "मुझे समझ नहीं आया|" ]
+        },
+        "languageCode": "hi"
+      }, {
+        "text": {
+          "text": [ "Ich verstehe deine Frage leider nicht.", "Entschuldige bitte, ich habe deine Frage nicht verstanden.", "Ich bin nicht so sicher, ob ich dich richtig verstanden habe.", "Leider kann ich nicht verstehen, was du von mir möchtest.", "Kannst du das noch mal anders formulieren?" ]
+        },
+        "languageCode": "de-de"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en-ca"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "Sikupata hilo. Unaweza kusema tena?", "Nimekosa ulichosema. Hiyo ilikuwa nini?", "Samahani, unaweza kusema hivyo tena?", "Samahani, unaweza kusema hivyo tena?", "Unaweza kusema hivyo tena?", "Samahani, sikupata hilo. Je, unaweza kutamka upya?", "Samahani, hiyo ilikuwa nini?", "Mara moja tena?", "Hiyo ilikuwa nini?", "Sema hivyo kwa mara nyingine?", "Sikupata hilo. Unaweza kurudia?", "Nimekosa hilo, sema hivyo tena?" ]
+        },
+        "languageCode": "sw"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en-in"
+      }, {
+        "text": {
+          "text": [ "J'ai du mal à comprendre cette question.", "J'ai mal compris votre demande.", "Je n'ai pas saisi ce que vous avez dit.", "Je crois que je ne vous suis pas.", "Je ne comprends pas de quoi vous me parlez." ]
+        },
+        "languageCode": "fr"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en-au"
+      }, {
+        "text": {
+          "text": [ "Det forstod jeg ikke. Prøv at sige det igen.", "Det fik jeg ikke fat i. Prøv at sige det igen.", "Det forstod jeg ikke. Prøv at gentage det.", "Det hørte jeg ikke. Prøv at sige det igen.", "Prøv at sige det igen.", "Det forstod jeg ikke.", "Det hørte jeg ikke. Hvad sagde du?", "Vil du gentage det?", "Hvad sagde du?", "Prøv at sige det igen.", "Det forstod jeg ikke.", "Det fik jeg ikke fat i." ]
+        },
+        "languageCode": "da"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en-gb"
+      }, {
+        "text": {
+          "text": [ "Ik begrijp het niet.", "Ik versta het niet." ]
+        },
+        "languageCode": "nl"
+      } ],
+      "enableGenerativeFallback": true
+    },
+    "name": "15fe3407-2337-464e-9039-3e2c0ca60af4"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      }, {
+        "text": {
+          "text": [ "Ich verstehe deine Frage leider nicht.", "Entschuldige bitte, ich habe deine Frage nicht verstanden.", "Ich bin nicht so sicher, ob ich dich richtig verstanden habe.", "Leider kann ich nicht verstehen, was du von mir möchtest.", "Kannst du das noch mal anders formulieren?" ]
+        },
+        "languageCode": "de"
+      }, {
+        "text": {
+          "text": [ "मुझे समझ नहीं आया. क्या आप अपनी बात दोहरा सकते हैं?", "आपने क्या कहा, मुझे समझ नहीं आया. फिर से कहें?", "माफ़ करें, क्या आप अपनी बात दोहरा सकते हैं?", "माफ़ करें, क्या आप अपनी बात फिर से कह सकते हैं?", "क्या आप अपनी बात दोहरा सकते हैं?", "माफ़ करें, मुझे समझ नहीं आया|", "माफ़ करें, क्या कहा आपने?", "एक बार फिर से कह सकते हैं?", "क्या कहा आपने?", "एक बार फिर से कहिए?", "मुझे समझ नहीं आया|" ]
+        },
+        "languageCode": "hi"
+      }, {
+        "text": {
+          "text": [ "Ich verstehe deine Frage leider nicht.", "Entschuldige bitte, ich habe deine Frage nicht verstanden.", "Ich bin nicht so sicher, ob ich dich richtig verstanden habe.", "Leider kann ich nicht verstehen, was du von mir möchtest.", "Kannst du das noch mal anders formulieren?" ]
+        },
+        "languageCode": "de-de"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en-ca"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "Sikupata hilo. Unaweza kusema tena?", "Nimekosa ulichosema. Hiyo ilikuwa nini?", "Samahani, unaweza kusema hivyo tena?", "Samahani, unaweza kusema hivyo tena?", "Unaweza kusema hivyo tena?", "Samahani, sikupata hilo. Je, unaweza kutamka upya?", "Samahani, hiyo ilikuwa nini?", "Mara moja tena?", "Hiyo ilikuwa nini?", "Sema hivyo kwa mara nyingine?", "Sikupata hilo. Unaweza kurudia?", "Nimekosa hilo, sema hivyo tena?" ]
+        },
+        "languageCode": "sw"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en-in"
+      }, {
+        "text": {
+          "text": [ "J'ai du mal à comprendre cette question.", "J'ai mal compris votre demande.", "Je n'ai pas saisi ce que vous avez dit.", "Je crois que je ne vous suis pas.", "Je ne comprends pas de quoi vous me parlez." ]
+        },
+        "languageCode": "fr"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en-au"
+      }, {
+        "text": {
+          "text": [ "Det forstod jeg ikke. Prøv at sige det igen.", "Det fik jeg ikke fat i. Prøv at sige det igen.", "Det forstod jeg ikke. Prøv at gentage det.", "Det hørte jeg ikke. Prøv at sige det igen.", "Prøv at sige det igen.", "Det forstod jeg ikke.", "Det hørte jeg ikke. Hvad sagde du?", "Vil du gentage det?", "Hvad sagde du?", "Prøv at sige det igen.", "Det forstod jeg ikke.", "Det fik jeg ikke fat i." ]
+        },
+        "languageCode": "da"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en-gb"
+      }, {
+        "text": {
+          "text": [ "Ik begrijp het niet.", "Ik versta het niet." ]
+        },
+        "languageCode": "nl"
+      } ]
+    },
+    "name": "39b385e0-f7f7-45de-bb85-45660146b13d"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.69999999,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_AUTOMATIC"
+  },
+  "knowledgeConnectorSettings": {
+    "enabled": true,
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$request.knowledge.answers[0]" ]
+        },
+        "languageCode": "en"
+      }, {
+        "languageCode": "en",
+        "knowledgeInfoCard": {
+          "maximumSnippets": 1
+        }
+      } ]
+    },
+    "dataStoreConnections": [ {
+      "dataStoreType": "PUBLIC_WEB",
+      "dataStore": "projects/884033627718/locations/global/collections/default_collection/dataStores/muellners-foundation-sentient-bot-data-store-2023v1",
+      "languageCode": "en"
+    } ]
+  }
+}

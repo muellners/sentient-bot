@@ -1,0 +1,10 @@
+{
+  "name": "1b8b6867-2d3b-4bdb-908b-2099bd4cc851",
+  "displayName": "prebuilt_components_address_collection_change_entire_address",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-head",
+    "value": "sys-head"
+  } ],
+  "numTrainingPhrases": 282
+}

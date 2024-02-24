@@ -1,0 +1,317 @@
+{
+  "trainingPhrases": [ {
+    "id": "549624c5-b941-4f60-b843-7d8baa84a2f1",
+    "parts": [ {
+      "text": "Please hold for a moment."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "3f0a99ce-04f0-4b34-9f73-d90be8e60fb9",
+    "parts": [ {
+      "text": "Let me take a moment to carefully consider your question before responding."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "c8b8197a-363a-4750-bc25-4ebc2a3c9728",
+    "parts": [ {
+      "text": "Wait a second"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a81704df-d11f-496f-b832-e55d3381f61d",
+    "parts": [ {
+      "text": "Wait a sec"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "af7337d9-e64e-4cea-a426-4b29638dc8b6",
+    "parts": [ {
+      "text": "wait a minute"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "e0be2896-2d28-495e-a090-b7a6fa1b62de",
+    "parts": [ {
+      "text": "Wait"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "263b3979-593a-440b-b68f-e1afd082bf2f",
+    "parts": [ {
+      "text": "Trying to find it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "e438a960-e20a-449c-a77a-f59791687e39",
+    "parts": [ {
+      "text": "Sure, I'll just get my card and read it off to you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "cfb3fd75-e938-4e9a-b07d-5fc047a004a6",
+    "parts": [ {
+      "text": "Still looking"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7c54366b-ee39-44ea-b05b-443dec56a1ba",
+    "parts": [ {
+      "text": "Still checking"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "def7d721-58ad-42eb-b4a2-1d0e13d85b9e",
+    "parts": [ {
+      "text": "Stay tuned"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "acb61c5d-279f-4c16-9d03-f037e1bca776",
+    "parts": [ {
+      "text": "Stand by."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a93fb6e3-c5b7-4464-a795-26615feb7320",
+    "parts": [ {
+      "text": "Please wait."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "eb28bf60-3479-4352-addc-089d26eed644",
+    "parts": [ {
+      "text": "Please wait for sometime"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4a56829c-9d8f-4da1-9d7d-c24eeb316265",
+    "parts": [ {
+      "text": "please wait for "
+    }, {
+      "text": "a minute",
+      "parameterId": "duration"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "0989f4f1-cff0-4da7-9873-55f8e370c9f4",
+    "parts": [ {
+      "text": "Please hold."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "229767a0-d831-4e1d-8f50-b58f20f3d172",
+    "parts": [ {
+      "text": "Please hold on for a moment"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "cac25e48-6f8a-46d9-858d-a46af86c37b8",
+    "parts": [ {
+      "text": "Please give me sometime"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "8dc411e2-49e0-41c9-9721-c3287f274e3a",
+    "parts": [ {
+      "text": "Pause"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "572906e1-da11-4a59-bbb1-7ff234d9d63d",
+    "parts": [ {
+      "text": "One moment please."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a75b5a5e-10ff-4d6b-9b33-625e9147e727",
+    "parts": [ {
+      "text": "ohh, no I don't have it on hand now"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "af328937-a1d4-486b-8f91-1870f113ca19",
+    "parts": [ {
+      "text": "Need to look it up"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "480fcdea-b724-4973-be8f-c0b326b5d3a5",
+    "parts": [ {
+      "text": "Let me look"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b5d4ab68-c81f-4541-bda9-ff9e0936a458",
+    "parts": [ {
+      "text": "Just a second, please."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "8e2eb0e2-7bfe-4663-ae8e-8327cd8810cd",
+    "parts": [ {
+      "text": "Just a sec"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "fa7219b7-5781-4e92-a974-cc86ddb52772",
+    "parts": [ {
+      "text": "Just a moment."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "22619b81-12c0-42d2-ba76-83789da662b3",
+    "parts": [ {
+      "text": "I'm not sure"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "195cb220-32e3-4f1c-8214-b27a308d7d3a",
+    "parts": [ {
+      "text": "I'll get back to you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "be9aab5c-9da7-4124-b1d3-7891f18f2db8",
+    "parts": [ {
+      "text": "I'll be right with you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "be20fd16-d1d0-48a5-b920-7c556ff93fdc",
+    "parts": [ {
+      "text": "I'll be right back."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d7be9c10-3c9d-48bb-bcce-ba7dc7df43f3",
+    "parts": [ {
+      "text": "I need to check"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a9b1ebd4-aadc-4d40-8810-2205e98c8a60",
+    "parts": [ {
+      "text": "I need sometime"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a5b01fec-131c-4303-88d5-ae99bc77e0af",
+    "parts": [ {
+      "text": "I need more time"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "56b4c291-ec9c-4572-aecc-67a0e9ea9107",
+    "parts": [ {
+      "text": "I need a moment"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b5c55cee-00eb-49a1-ae24-7d32874e0f29",
+    "parts": [ {
+      "text": "I don’t have it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "39f83b1a-cbc0-4e14-86c1-bd7ddaa822dd",
+    "parts": [ {
+      "text": "Hold on please."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6551f3fe-6f7b-4c6a-b2e5-fbc8ff03ebc9",
+    "parts": [ {
+      "text": "Hold"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4afabf12-0d4f-4cce-b6b0-61e89c995f31",
+    "parts": [ {
+      "text": "Hang on."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "ab80ada3-fcde-4029-8a03-58adb8c8c7ae",
+    "parts": [ {
+      "text": "Give me a minute"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "95c7c92d-3a46-4e25-946c-a9f25c53369a",
+    "parts": [ {
+      "text": "Gimme a minute."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "21db47b6-ddba-4573-8173-06cc46e9b520",
+    "parts": [ {
+      "text": "Can’t find it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "5c2590a1-76de-4453-acee-9730334ca898",
+    "parts": [ {
+      "text": "can you hold on for "
+    }, {
+      "text": "a minute",
+      "parameterId": "duration"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7ecaac64-04ab-4d64-a29a-5e97d51d1562",
+    "parts": [ {
+      "text": "Bear with me."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "9c649833-ec79-409a-a39c-03dd44ab7fa2",
+    "parts": [ {
+      "text": "Be patient"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  } ]
+}

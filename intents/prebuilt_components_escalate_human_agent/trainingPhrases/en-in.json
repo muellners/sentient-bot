@@ -1,0 +1,339 @@
+{
+  "trainingPhrases": [ {
+    "id": "7bc590e5-ae56-44f8-8355-275f77e331cd",
+    "parts": [ {
+      "text": "speak to an agent"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "efc82b65-6471-457b-a14b-a8513803c8e9",
+    "parts": [ {
+      "text": "I want to speak with a human."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "d7b9fb24-4918-4a6e-81f3-e825e982b735",
+    "parts": [ {
+      "text": "Is there someone I can speak to directly?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "684f1db6-717a-4ea6-b4b0-45d32064666d",
+    "parts": [ {
+      "text": "I need to talk to someone from your support team."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "e40614be-28eb-447d-95be-6398bc826149",
+    "parts": [ {
+      "text": "I'd like to speak to a real person, please."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "7f50ef72-82f3-4fdf-9fd0-7ddef30f854d",
+    "parts": [ {
+      "text": "connect me to the live person"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "7e07d854-62eb-4a22-9809-6d639771a2df",
+    "parts": [ {
+      "text": "I require assistance from an agent, can you connect me with one please?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "e31cc042-0359-4707-9977-567a17a01177",
+    "parts": [ {
+      "text": "I want to talk with agent"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "3751e4ad-bb1f-4d1d-ab75-9cc609af4484",
+    "parts": [ {
+      "text": "Please connect me with a member of your team."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "adc6c03d-b9a4-4d6e-9e2b-96eddef5fcff",
+    "parts": [ {
+      "text": "I need to speak with a live representative."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "94604f29-1c1d-4b82-ac13-ca439047d6a4",
+    "parts": [ {
+      "text": "I'd like to talk to a real person."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "35803ad2-435c-49fb-9080-bf678d9ec0d4",
+    "parts": [ {
+      "text": "Can I speak to a person, please?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "1380dfd7-c1c6-4563-a989-6e32b554652a",
+    "parts": [ {
+      "text": "Speak to a representative."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "dfbd23ea-6721-4e14-932e-ba7e8d7f10b5",
+    "parts": [ {
+      "text": "Please connect me to an agent as soon as possible."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "a0fc774d-a96f-4574-9c11-9fbbdec88b50",
+    "parts": [ {
+      "text": "Transfer"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "b0846e72-6f65-4b7e-bcf6-ed5c3ded7888",
+    "parts": [ {
+      "text": "Telephone operator"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "f7f2b1b2-17e3-4876-9b64-7958b34f17b7",
+    "parts": [ {
+      "text": "Technical Support Representative"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "a1640317-383c-4e18-9443-b38a55e951da",
+    "parts": [ {
+      "text": "Technical Support Agent"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "ae014e47-6526-4fbf-9afb-91ffe4cb2ee7",
+    "parts": [ {
+      "text": "Switchboard operator"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "952adc89-a6e3-452b-9ef3-1cb204983440",
+    "parts": [ {
+      "text": "Support"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "cc36c30f-66fb-4817-a97c-78902cc2826b",
+    "parts": [ {
+      "text": "Receptionist"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "9394169c-e6b1-4e7e-bc8f-43f9eabc971d",
+    "parts": [ {
+      "text": "Operator assistant"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "b88b4ea3-dc0c-4231-a3f3-dba68231c7d3",
+    "parts": [ {
+      "text": "I'm not satisfied with the response I received. Can I speak to someone else?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "20a06021-463b-487e-8e2a-95c3ed6b1d8d",
+    "parts": [ {
+      "text": "I'm not getting the help I need. Can I speak to someone higher up?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "90bbff16-f87b-40df-b368-f96bcb0f7333",
+    "parts": [ {
+      "text": "I need to talk with customer resperesntive"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "1c0b5000-7feb-4cc0-bd17-d0f9c7254b84",
+    "parts": [ {
+      "text": "I need to speak to someone"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "1f14f805-2393-47b9-8c4a-db86dfc7df48",
+    "parts": [ {
+      "text": "I need to escalate this issue."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "8dcc7e9d-6517-4d58-b3ed-df65601f0aea",
+    "parts": [ {
+      "text": "Human"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "98062aa3-2e86-492f-81f9-0f4f91590b78",
+    "parts": [ {
+      "text": "Help desk technician"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "37d10ab1-7dae-4cab-8448-621afc4d6c58",
+    "parts": [ {
+      "text": "Help desk representative"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "396f949e-8510-417a-9b26-421f8e00fffa",
+    "parts": [ {
+      "text": "Dispatcher"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "112ab763-9e37-4a8b-8cfc-14afe1d27876",
+    "parts": [ {
+      "text": "Customer support, please."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "0932d0a2-40d0-4d6e-a06e-f0d3d8379cac",
+    "parts": [ {
+      "text": "Customer support technician"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "385d4d94-ac7a-4493-8797-2f125af517c7",
+    "parts": [ {
+      "text": "Customer support representative"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "cae8b9e3-f131-410f-b609-0243e0d83d13",
+    "parts": [ {
+      "text": "Customer service specialist"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "ad415371-89ce-4648-9843-b5e55fe61d51",
+    "parts": [ {
+      "text": "Customer Service Representative"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "f00c71da-03d3-49a4-af4c-5515ce2b60e0",
+    "parts": [ {
+      "text": "Customer Service Agent"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "0172bceb-4637-4fe4-85e3-2588e1aa0d21",
+    "parts": [ {
+      "text": "Customer care representative"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "50430e0e-d9b0-47a5-8b4b-41bc4e762717",
+    "parts": [ {
+      "text": "Customer assistance representative"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "429e2ebd-a2dd-46c7-a3de-2422df67bb15",
+    "parts": [ {
+      "text": "Contact center agent"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "263ea52a-3dee-4333-a486-bc903e63d891",
+    "parts": [ {
+      "text": "Connect me to the live person"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "7eb30cf5-693e-49f4-8623-e7b056a5fec1",
+    "parts": [ {
+      "text": "Can you connect me to an agent, please?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "914a3dd2-e4eb-4dae-89c1-947881c0b703",
+    "parts": [ {
+      "text": "Can I speak to a supervisor, please?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "288b46e7-e178-4aed-b78d-ceff9b7da132",
+    "parts": [ {
+      "text": "Call center technician"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "6ca0636f-f5e3-4991-b6fb-4bcb7394d5f1",
+    "parts": [ {
+      "text": "Call center specialist"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "cbc73985-4e56-499d-ae13-fbaab762a22b",
+    "parts": [ {
+      "text": "Call center operator"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "b0030be2-477b-4ac0-9592-5ce8e27d7e92",
+    "parts": [ {
+      "text": "Agent"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "e8f6e89a-3efe-494b-ba3c-7bcf8a365476",
+    "parts": [ {
+      "text": "Administrative Assistant"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  } ]
+}

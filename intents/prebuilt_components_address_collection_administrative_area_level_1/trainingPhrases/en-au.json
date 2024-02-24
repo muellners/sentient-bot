@@ -1,0 +1,426 @@
+{
+  "trainingPhrases": [ {
+    "id": "28f0e84e-2ee5-40f8-9b93-9cb72760a5fc",
+    "parts": [ {
+      "text": "You are having a hard time understanding the province.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "cca0583e-3a06-43b4-85e2-3d5dc35ad764",
+    "parts": [ {
+      "text": "I want to go ahead with administrative area.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "34f11f0a-a5c0-4e92-9e09-52fedaa5382c",
+    "parts": [ {
+      "text": "Let's go again for the state.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "91fe85fb-cb20-4b8b-a94e-2f34047bc772",
+    "parts": [ {
+      "text": "I would really appreciate if you can change province.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "4b75d180-6796-4ea3-b6eb-1682c83c2735",
+    "parts": [ {
+      "text": "It's better if we change the administrative area as it is wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "7f7407a5-d773-434b-b0dd-1b2717498720",
+    "parts": [ {
+      "text": "Let's change the state.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ab15c2ad-0e4e-4b11-9179-7307fd71c890",
+    "parts": [ {
+      "text": "How about altering province?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "be45edd7-8d52-4cec-913f-69aa680a1264",
+    "parts": [ {
+      "text": "Help me change state.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ca0c2520-6b7a-4c47-ad1b-c16619de70a7",
+    "parts": [ {
+      "text": "How can I change the province?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "a2808a12-6125-4039-8968-f9ca54465abd",
+    "parts": [ {
+      "text": "You might wanna reconsider taking new administrative area.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "05b7ab42-c196-4185-a6fa-72bc5bf27bc3",
+    "parts": [ {
+      "text": "The state you identified is not right.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "530ac004-af74-4e35-9d08-9a0a00404113",
+    "parts": [ {
+      "text": "Is there any way I can alter the province?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ecba05cd-a520-462c-8a9b-a23528030806",
+    "parts": [ {
+      "text": "The administrative area seems a bit off.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "9663e5eb-b076-4ee8-b181-7b95426dac99",
+    "parts": [ {
+      "text": "The state is not accurate.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "09e7d2eb-effe-4ab3-b656-b0235e673085",
+    "parts": [ {
+      "text": "I would like to update the province.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e9afbc2b-415a-4bdf-8583-c15c9e35081e",
+    "parts": [ {
+      "text": "I told you the wrong state.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "1466da05-4ca4-4f5c-a445-ff9fad69b520",
+    "parts": [ {
+      "text": "The address of the administrative area looks incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f0e71731-d75f-42f4-a329-88cbb8298f1d",
+    "parts": [ {
+      "text": "The state name is different.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "666aadfb-621d-4219-aa55-587ef1c158e8",
+    "parts": [ {
+      "text": "I think the province is invalid.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "24afbe2c-b65c-4281-b12c-2614df3ecec1",
+    "parts": [ {
+      "text": "Everything else looks good except the state.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d8f52992-72e3-40ba-b55f-7094a5ac7673",
+    "parts": [ {
+      "text": "The administrative area is missing in the address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ffa5c9c7-fc58-4358-b2e7-6b229ba8a761",
+    "parts": [ {
+      "text": "The province needs to be changed.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6dfcda1e-0a1e-421f-810a-0467e8e63d7f",
+    "parts": [ {
+      "text": "You are just wrong about the state.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0f2664dc-0c6f-4b83-ae50-dccec134e529",
+    "parts": [ {
+      "text": "Only the province was incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "942fcbad-f1fd-4d27-9011-4814c93a2177",
+    "parts": [ {
+      "text": "I am sorry, I mistakenly provided the wrong administrative area.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "12a6ff84-05ea-4a44-99ad-4cf069887c45",
+    "parts": [ {
+      "text": "Unfortunately, I said different state.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d0eb4e51-10c6-4f4f-bce9-5784feb5c1e1",
+    "parts": [ {
+      "text": "You predicted the state incorrectly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "7547e240-315b-4774-acdf-4f14acfb3951",
+    "parts": [ {
+      "text": "The province is wrong, please change it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e95d541b-ad72-415f-aa74-b1e8f5a04e8e",
+    "parts": [ {
+      "text": "State please.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0e3677a1-a0f6-4f71-99f2-6f7912890d40",
+    "parts": [ {
+      "text": "That's not the right administrative area.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "3ea63830-45f0-4e75-b6cd-126aeffce1c2",
+    "parts": [ {
+      "text": "Change the state.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2297f790-7e6e-4aa0-80ee-f112785e29e6",
+    "parts": [ {
+      "text": "Update the province.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "15af8740-57f7-4c0b-9e4e-bac9d3e891d4",
+    "parts": [ {
+      "text": "You are just wrong about my administrative area.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "b1d729b6-e2e2-44d2-a87a-d33bab30a7ea",
+    "parts": [ {
+      "text": "It is the state.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e8594d20-918f-4723-bc09-255a3b205bec",
+    "parts": [ {
+      "text": "Administrative area",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "3e02a757-6f0a-4fae-8a8e-29338b606331",
+    "parts": [ {
+      "text": "State",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "65704c44-1697-4c35-aec5-992999bd7696",
+    "parts": [ {
+      "text": "Province",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "471a9822-cc5c-49c8-a42a-61c920fc0ccd",
+    "parts": [ {
+      "text": "Please change the province.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "4e9801cd-09c1-404f-8f7c-42155b71f424",
+    "parts": [ {
+      "text": "Only the state address was incorrect. Please update that one.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "8bf2d7b0-c2dc-4da5-b8f0-16fb47d21e83",
+    "parts": [ {
+      "text": "You did not get my province.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "a7363ce4-62ad-4634-8ce8-ae3c757305f5",
+    "parts": [ {
+      "text": "You did not guess my state correctly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "188ca977-2b44-4350-b874-499561f6ce60",
+    "parts": [ {
+      "text": "Can you please change the administrative area?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0c87c47a-9e1a-4030-be09-a4e6736da321",
+    "parts": [ {
+      "text": "My administrative area is not correct.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "382e434e-1966-4324-b6d2-14f0dfdd7b7d",
+    "parts": [ {
+      "text": "The administrative area you found is not part of the address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "cba4fefe-33bb-4e96-b0f4-8db55251fa7a",
+    "parts": [ {
+      "text": "You got the administrative area incorrectly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "7cc3e661-c6d9-4d83-a62a-ad1afc0cb47d",
+    "parts": [ {
+      "text": "Where did you get the administrative area from?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ee937b56-eda2-4cf5-a316-5da896b2edf1",
+    "parts": [ {
+      "text": "It looks like the administrative area is off.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "41f2a020-1589-4ec9-9953-508f29d2e371",
+    "parts": [ {
+      "text": "I'm not sure about the administrative area.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "885e1e37-db2f-4179-a7f7-f002788fee9a",
+    "parts": [ {
+      "text": "I don't recognize the administrative area.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "085a5153-e907-46aa-80ca-1059b74d4a8c",
+    "parts": [ {
+      "text": "Administrative area is incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "23381167-4945-4169-a0af-2c01ad1ee468",
+    "parts": [ {
+      "text": "You got the administrative area wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "b0b6b66b-3a19-469b-9cac-5573c03b021a",
+    "parts": [ {
+      "text": "I want to change the administrative area.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "9c42d4f7-7d3a-4124-b6f1-dfb53d8dc489",
+    "parts": [ {
+      "text": "This is not my administrative area.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  } ]
+}

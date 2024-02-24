@@ -1,0 +1,465 @@
+{
+  "trainingPhrases": [ {
+    "id": "01b4f680-d293-46ea-94d0-982508fa3e74",
+    "parts": [ {
+      "text": "Absolutely not!"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "f6321920-4574-4051-bffc-68ba380b255b",
+    "parts": [ {
+      "text": "Not a chance."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "d64f37f6-0fe7-41fd-8f30-86bc74b31354",
+    "parts": [ {
+      "text": "No, I don't agree."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "6f80b658-4e29-44c9-8f61-d51a74d4b413",
+    "parts": [ {
+      "text": "That's misguided."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "794ae670-47dd-4cf8-a6c0-d88a944a337a",
+    "parts": [ {
+      "text": "That's flawed."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "e4a8641a-45a0-4b72-bd02-cfa775a8ea39",
+    "parts": [ {
+      "text": "That's erroneous."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "72849db7-c589-499b-8fe0-4373cd55d8c4",
+    "parts": [ {
+      "text": "That's untrue."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "6e9286b3-7835-4985-9c75-c180de148117",
+    "parts": [ {
+      "text": "That's wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "891b4c6b-be99-4cc3-8932-b1ba0423e10f",
+    "parts": [ {
+      "text": "Inaccurate"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "2b8b7a31-44b6-4514-bd82-9a1cad33f28c",
+    "parts": [ {
+      "text": "Incorrectly stated"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "af2c5624-518b-4f79-81e7-e24d234e2015",
+    "parts": [ {
+      "text": "Flawed"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "4db807de-7f84-4b27-b19f-a99b9f22bfe5",
+    "parts": [ {
+      "text": "Erroneous"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "0e2f10c2-46c7-4807-82db-2d83fe71cae7",
+    "parts": [ {
+      "text": "FALSE"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "6dfba7a4-787b-4650-97c6-f74721ffe36e",
+    "parts": [ {
+      "text": "Mistaken"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "74a2c0fa-0916-4438-b1e7-f005988cf761",
+    "parts": [ {
+      "text": "Untrue"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "b695967f-32de-42dc-9af3-5a09aa131a4c",
+    "parts": [ {
+      "text": "Of course not."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "813d8b4e-67ce-4a66-84af-0d00b1ccded1",
+    "parts": [ {
+      "text": "Invalid"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "28d4efdc-e30a-4c01-a07e-13d9d492996b",
+    "parts": [ {
+      "text": "wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "dbbf8fad-c926-4776-a73a-0d87823a6782",
+    "parts": [ {
+      "text": "Unfortunately, that's incorrect."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "dc41d5b6-3c1b-4c12-abd4-f35f0075cfa6",
+    "parts": [ {
+      "text": "This is incorrect"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "ebab07fe-b317-47d0-9e94-53537d5698b5",
+    "parts": [ {
+      "text": "This is inaccurate"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "49947640-bf8d-41ed-8f60-06dc5b32ea82",
+    "parts": [ {
+      "text": "This is faulty."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "bbb476c3-3530-4baf-9f76-02b0e8b6f144",
+    "parts": [ {
+      "text": "they are not"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "fcf72d5e-36c0-4f12-9056-260b8299e4cb",
+    "parts": [ {
+      "text": "that's wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "5d5fefd7-4b3a-4b19-a5c7-9aa660f5eeb6",
+    "parts": [ {
+      "text": "that's not right"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "ac9540fb-ec60-4619-9358-1a28efeb9dea",
+    "parts": [ {
+      "text": "That's not correct"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "b8e779d2-b979-4e11-b7a3-f50a5f605300",
+    "parts": [ {
+      "text": "That's mistaken."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "ce4067a8-4eab-4c79-89d5-a19ddc23d90e",
+    "parts": [ {
+      "text": "That's inaccurate."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "a0c8f066-c7ac-46cb-83b9-8c368d104754",
+    "parts": [ {
+      "text": "That's false."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "06e9b1c4-52ca-429f-a979-339323451e95",
+    "parts": [ {
+      "text": "that would be it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "7cd95ef1-2384-4df4-acf2-d813afdd375f",
+    "parts": [ {
+      "text": "thanks"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "7f9ba980-cc68-470e-869d-e2cefa0ed25f",
+    "parts": [ {
+      "text": "thank you"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "efb40dff-fd27-408e-8edd-b085fd65029a",
+    "parts": [ {
+      "text": "still not"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "55744827-371a-41ea-8da5-eaac36f447f2",
+    "parts": [ {
+      "text": "not yet"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "d0cb0a81-3c60-477a-a7d7-024a29659ac3",
+    "parts": [ {
+      "text": "not up to date"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "b8c3a4f0-7d4d-4c2d-9e7b-f80cac621947",
+    "parts": [ {
+      "text": "Not this time"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "59aa2ede-07d2-465f-b941-41a23883e843",
+    "parts": [ {
+      "text": "not right now"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "2e6e6338-9c29-4f48-adb7-a786deaa322d",
+    "parts": [ {
+      "text": "nope"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "17bfc58c-4162-4596-9b13-fc6fd5ff1849",
+    "parts": [ {
+      "text": "noo"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "674eacbf-8763-4a43-8313-a906b50b97fc",
+    "parts": [ {
+      "text": "no,thats all"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "ba5d0211-17eb-4261-843b-9fd5355c4dce",
+    "parts": [ {
+      "text": "No, that's not correct."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "b0584d1e-d64b-4f33-83a8-2f90c74b7bac",
+    "parts": [ {
+      "text": "no that's it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "1e613dd8-ee23-4cab-8854-6a439e87533e",
+    "parts": [ {
+      "text": "no thanks"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "2cc44e92-6704-45da-878e-02a957ca8346",
+    "parts": [ {
+      "text": "no please"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "c1591739-2406-4e47-80f8-e938952c40c2",
+    "parts": [ {
+      "text": "no don't"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "c8e0ceff-2a15-4b78-826a-3e1b16a90d8d",
+    "parts": [ {
+      "text": "no"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "68bea2be-959d-4cc9-a9c7-dce801581c1f",
+    "parts": [ {
+      "text": "nah"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "6b6da74a-976c-4b14-918c-c3597f99385d",
+    "parts": [ {
+      "text": "it's wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "3563f600-6941-4f0c-a649-391e44d939bb",
+    "parts": [ {
+      "text": "it's not right"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "20f7f31f-81d3-437c-9ebb-e82ae6938a1f",
+    "parts": [ {
+      "text": "it's not good"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "76bd946d-cd02-4a5f-bf42-bd3592ed6bf2",
+    "parts": [ {
+      "text": "it's incorrect"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "20cb4177-6365-47a5-bbf9-269ef5b09e9b",
+    "parts": [ {
+      "text": "Incorrect"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "6ff779a4-c555-4be7-8a99-96712f0d2627",
+    "parts": [ {
+      "text": "I'm not interested"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "a5930412-11d2-4ced-a878-125e35c5ef08",
+    "parts": [ {
+      "text": "I'm not able to do that"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "c77699a9-bebe-4d0f-9fec-d5e4d34a161a",
+    "parts": [ {
+      "text": "i'm good thank you"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "7ead0da3-e3a0-4a51-9e3b-d670b6a1866f",
+    "parts": [ {
+      "text": "I'm good"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "e58c95c2-5bab-4157-8721-3325d482688e",
+    "parts": [ {
+      "text": "I'm fine"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "311499fc-7cba-4920-84f4-3b50575c0b08",
+    "parts": [ {
+      "text": "i still don't have"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "cdd982af-fb64-4718-a1cb-e7c5a96a8a40",
+    "parts": [ {
+      "text": "i still can't"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "fb68abfe-a291-4f32-89ce-ce0670132c6c",
+    "parts": [ {
+      "text": "I don't want to"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "647df911-b7d3-4fa5-ad97-9cd2d9162cda",
+    "parts": [ {
+      "text": "I don't think that's a good idea"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "445dcca1-b411-40db-aa47-68dbd9ae3635",
+    "parts": [ {
+      "text": "I don't think that's a good fit for me"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "490b3b2a-8fba-4375-b627-83891ff1f323",
+    "parts": [ {
+      "text": "I don't think so"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "51e66f17-5a6b-47a1-91d7-e394705ed7bb",
+    "parts": [ {
+      "text": "i can't"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "5407d37f-7f91-4137-a854-47a5eff154fc",
+    "parts": [ {
+      "text": "Actually, that's incorrect."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "625277ca-502c-4732-827e-d1469eb9ff65",
+    "parts": [ {
+      "text": "actually thats wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

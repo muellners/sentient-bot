@@ -1,0 +1,15 @@
+{
+  "name": "e52aa92d-42fc-40a6-9176-f697847f43c8",
+  "displayName": "prebuilt_components_waiting_room",
+  "parameters": [ {
+    "id": "duration",
+    "entityType": "@sys.duration"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-head",
+    "value": "sys-head"
+  } ],
+  "description": "Possible when a user asked to pause.",
+  "numTrainingPhrases": 264
+}

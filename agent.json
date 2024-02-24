@@ -1,0 +1,54 @@
+{
+  "defaultLanguageCode": "en",
+  "supportedLanguageCodes": [ "de", "hi", "de-de", "en-gb", "en-in", "en-ca", "en-us", "en-au", "da", "fr", "nl", "sw" ],
+  "timeZone": "Europe/Madrid",
+  "enableLogging": true,
+  "projectNumber": 884033627718,
+  "speechToTextSettings": {
+    "enableSpeechAdaptation": true
+  },
+  "startFlow": "Default Start Flow",
+  "enableStackdriverLogging": true,
+  "enableSpellCorrection": true,
+  "advancedSettings": {
+    "enabled": true,
+    "audioExportGcsDestination": {
+      "uri": "gs://sentient-botv12023-storage"
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      },
+      "models": [ {
+        "key": "en",
+        "value": "video"
+      } ]
+    },
+    "playbackInterruptionSettings": {
+      "allowPlaybackInterruption": true
+    },
+    "loggingSettings": {
+      "enableStackdriverLogging": true,
+      "enableInteractionLogging": true
+    }
+  },
+  "speakerIdSettings": {
+  
+  },
+  "textToSpeechSettings": {
+  
+  },
+  "genAppBuilderSettings": {
+    "engine": "projects/884033627718/locations/global/collections/default_collection/engines/sentient-botv1-2023"
+  },
+  "duplexSettings": {
+  
+  },
+  "callCompanionSettings": {
+    "company": "Muellners Foundation"
+  },
+  "answerFeedbackSettings": {
+    "enableAnswerFeedback": true
+  }
+}

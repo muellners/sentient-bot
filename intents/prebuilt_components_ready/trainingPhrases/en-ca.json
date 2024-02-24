@@ -1,0 +1,423 @@
+{
+  "trainingPhrases": [ {
+    "id": "e2f259d0-088b-466a-b967-d38941253a72",
+    "parts": [ {
+      "text": "We can carry on."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "a1c83684-7582-4a1a-825b-40c45a1c6f05",
+    "parts": [ {
+      "text": "It's time to take action."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "926e05cf-a321-46a3-9dd7-b78e31af04d1",
+    "parts": [ {
+      "text": "It's time to take it further."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "6ea24c95-80bc-4544-a3cb-f41f054a3f2c",
+    "parts": [ {
+      "text": "I want to sustain the progress."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "40ab12dc-00bc-4015-8fbb-accdbaceae55",
+    "parts": [ {
+      "text": "This is it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7b7b72d3-6266-4cf2-9d3d-0c98347f72cc",
+    "parts": [ {
+      "text": "The time is now."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "f7887a84-81aa-4c01-9e7a-43c1c7429f3c",
+    "parts": [ {
+      "text": "Showtime."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "ec79cb63-3b1e-4c52-9f01-8a0d092cddd0",
+    "parts": [ {
+      "text": "Shall we start?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "c90d9f8f-734d-4bc6-9093-fc1364012502",
+    "parts": [ {
+      "text": "Ready,"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7f01060f-1c0f-43d6-8cbb-6f32f2e89d24",
+    "parts": [ {
+      "text": "Ready when you are."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "600bbf7d-11a6-43fc-9449-36f903569663",
+    "parts": [ {
+      "text": "Proceed"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "32b03fb9-7ced-4927-8cfa-b8dc98a26a6f",
+    "parts": [ {
+      "text": "Okay, i’m ready"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "3bca1e22-6023-4b28-85d6-13e14561b392",
+    "parts": [ {
+      "text": "Now or never."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "3d8c0915-2b2d-4edd-900e-4df91fec52ba",
+    "parts": [ {
+      "text": "Let's start over"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "6e65e11d-e95b-4093-b2f2-a3d811c5c7b3",
+    "parts": [ {
+      "text": "Let's start now"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "beab7482-e549-491f-ba40-91907066277f",
+    "parts": [ {
+      "text": "Let's roll."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "2aa39b9c-c737-4493-b142-03cd8e595f7c",
+    "parts": [ {
+      "text": "Let's rock and roll."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "f7cd515a-38de-4338-9667-fdd2d7b0663a",
+    "parts": [ {
+      "text": "Let's proceed."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "dfb282ee-be53-464c-bca5-bb1589cbee35",
+    "parts": [ {
+      "text": "Let's move forward."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "657c1434-4b31-4d86-a485-2db62f22fe7d",
+    "parts": [ {
+      "text": "Let's make this happen."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "e8c92988-65f8-4d55-abcb-93b64d2b5470",
+    "parts": [ {
+      "text": "Let's make it happen."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "00be61b1-364f-4fd2-bff6-c83d7d253a54",
+    "parts": [ {
+      "text": "Let's go."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "162be3b3-dc24-4c57-a200-20a02a4979bd",
+    "parts": [ {
+      "text": "Let's get to it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "94d7d07c-90b5-4bbe-87cf-5ac2022a1997",
+    "parts": [ {
+      "text": "Let's get this show on the road."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "9be4a7b9-a67d-4b0c-84de-2fa5e6545987",
+    "parts": [ {
+      "text": "Let's get the ball rolling."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "cbe040a2-0fad-433e-a4ac-6dfc4b5e9ab5",
+    "parts": [ {
+      "text": "Let's get started."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "9b1adcdc-aa35-4f2d-9983-9d8eb215fb97",
+    "parts": [ {
+      "text": "Let's get moving."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "4d7459ac-7e87-4a99-8d20-78c85ec1157d",
+    "parts": [ {
+      "text": "Let's do this."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "ebdadaa9-5d35-45e4-9697-d47498ec301a",
+    "parts": [ {
+      "text": "Let's do this thing."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "66aff802-6a84-4cc8-ade6-4fdbca4690a2",
+    "parts": [ {
+      "text": "Let's do or die."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "cbf2b044-116c-4da4-afa3-fccb9d89b6d6",
+    "parts": [ {
+      "text": "Let's dive in."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "33734005-9fda-499b-b099-d0693e12ae1c",
+    "parts": [ {
+      "text": "Let's continue"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "6815d486-b1a3-4ab2-adaa-40c1461898a2",
+    "parts": [ {
+      "text": "It's go time."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "d046f605-a7fb-492b-8b53-edd586df5f24",
+    "parts": [ {
+      "text": "I’m prepared"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "2ccbde83-e5ae-4b4b-b529-80d931de6d23",
+    "parts": [ {
+      "text": "I’m back"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "0086a0dc-e3e9-4497-9e47-b2fa7bdb8595",
+    "parts": [ {
+      "text": "I'm up for it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "80641f81-f976-486c-8316-07e3f41942a0",
+    "parts": [ {
+      "text": "I'm set."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "8e0afc81-e4df-4968-9d8d-5adf5f97bbbf",
+    "parts": [ {
+      "text": "I'm ready when you are."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7481f954-0aeb-4a84-9d20-1e3ce530162c",
+    "parts": [ {
+      "text": "I'm raring to go."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "c1ff2bea-fc99-4b4a-991a-2bfdcc356300",
+    "parts": [ {
+      "text": "I'm prepared."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "8b771470-748a-4476-bdbf-4bb5d200ceac",
+    "parts": [ {
+      "text": "I'm prepared to begin."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "3b266965-5c1c-4b22-b31f-6291450da7c9",
+    "parts": [ {
+      "text": "I'm looking forward to this."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "a74cce39-dc15-4612-8a1f-697e5b068dff",
+    "parts": [ {
+      "text": "I'm good to go."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "572e05f0-323b-408c-8586-3644bbe73a7f",
+    "parts": [ {
+      "text": "I'm game."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "85e73cc3-796d-4cee-a1d8-e7ebc9ffdf5a",
+    "parts": [ {
+      "text": "I'm fired up."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "026f35bf-6b9c-4090-9fa3-cb041ae6a29e",
+    "parts": [ {
+      "text": "I'm excited to get started."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7600823f-cf24-4120-afc0-c78177f29dea",
+    "parts": [ {
+      "text": "I'm eager to begin."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "4ff1602a-4568-409d-b9d8-858217646d6e",
+    "parts": [ {
+      "text": "I'm all set."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "d9eeaccd-c342-427f-9420-970420a144a7",
+    "parts": [ {
+      "text": "I'm all in."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "d9be4ea4-f1ec-46a5-9197-aa1a5d25d47f",
+    "parts": [ {
+      "text": "I have it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "72549daf-c588-411b-8f18-bef959027819",
+    "parts": [ {
+      "text": "I can't wait to get started."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "714f2176-78ca-4fce-81e3-e10e69496839",
+    "parts": [ {
+      "text": "I am redy"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "5e7d5320-b675-4daa-af64-ea27b66a0cb5",
+    "parts": [ {
+      "text": "Got it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "151f5146-3657-4b22-911d-4ba99c36afeb",
+    "parts": [ {
+      "text": "Go ahead"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "ef8e86e4-0303-4eb3-9b9f-9ddaba8514b6",
+    "parts": [ {
+      "text": "Go"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "91b03322-54c7-4e75-aa83-ddbaae605472",
+    "parts": [ {
+      "text": "Found it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "0377157d-fb7f-46e3-9b57-ed502788ee01",
+    "parts": [ {
+      "text": "Count me in."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "4353e94c-22a7-45bf-ab74-1f94a7fce379",
+    "parts": [ {
+      "text": "Continue"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "b739aeb6-a9ad-421f-9dc9-0bca266c8362",
+    "parts": [ {
+      "text": "Bring it on."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "e8fbde32-7c4f-4952-b16b-86c9d6342436",
+    "parts": [ {
+      "text": "Alright, i’m ready"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  } ]
+}
