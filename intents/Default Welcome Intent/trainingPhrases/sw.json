@@ -1,0 +1,67 @@
+{
+  "trainingPhrases": [ {
+    "id": "0ac65c57-390f-409a-82c9-8d9697a831e4",
+    "parts": [ {
+      "text": "naenda kusema tu hi",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "sw"
+  }, {
+    "id": "b70854bd-6dce-4f7d-b733-bc0f8268cd40",
+    "parts": [ {
+      "text": "muda mrefu sijaona",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "sw"
+  }, {
+    "id": "9822909a-3a08-4fa6-a898-3231814d6066",
+    "parts": [ {
+      "text": "hujambo",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "sw"
+  }, {
+    "id": "ee5b087c-4e22-46f4-a628-d17df04a7ff0",
+    "parts": [ {
+      "text": "habari",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "sw"
+  }, {
+    "id": "445f8e4a-465e-402e-b364-e2c516215cbb",
+    "parts": [ {
+      "text": "salamu",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "sw"
+  }, {
+    "id": "351aa183-947a-4e6b-a360-fc4ffb8d702f",
+    "parts": [ {
+      "text": "siku nzuri sio",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "sw"
+  }, {
+    "id": "40bee825-88dd-43bc-958b-139db864cd6c",
+    "parts": [ {
+      "text": "siku njema",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "sw"
+  }, {
+    "id": "00a3e729-63a7-45b7-b46f-10dbbd6c758a",
+    "parts": [ {
+      "text": "habari tena",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "sw"
+  } ]
+}

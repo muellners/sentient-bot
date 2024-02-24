@@ -1,0 +1,366 @@
+{
+  "trainingPhrases": [ {
+    "id": "6d9782cd-574b-4243-99c5-9f1707fbd3a7",
+    "parts": [ {
+      "text": "the address is wrong",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "e7b7cbcd-c991-4213-ac50-69e9b91cfbd2",
+    "parts": [ {
+      "text": "address incorrect",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "9490c327-ef69-4fd1-bc9f-3ca44016a43c",
+    "parts": [ {
+      "text": "Regrettably, that is an inaccurate location.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4721ed97-c5b4-44aa-b68d-96ccf35caba8",
+    "parts": [ {
+      "text": "totally not",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "bc1fdadc-00a9-4b18-bc9f-c77fb9e70f7f",
+    "parts": [ {
+      "text": "The place you guessed is inaccurate."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "bf6c625b-3dfc-4135-a258-06b8e746da0f",
+    "parts": [ {
+      "text": "The address is different."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "c7029b3c-0642-4196-9523-a2267f726763",
+    "parts": [ {
+      "text": "Your guess is anything else but correct."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b54ec9d6-cea2-4593-af7d-e2eb31eae3eb",
+    "parts": [ {
+      "text": "It's not the accurate place."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "81707865-b9b7-4029-a271-c2bfd2253a20",
+    "parts": [ {
+      "text": "You can't proceed with this address."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "e988256d-9faa-44ac-b9bb-045ec8181b32",
+    "parts": [ {
+      "text": "I believe it is not the right location"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "0cb89526-f1e6-4408-a0e9-c47740eac2db",
+    "parts": [ {
+      "text": "This doesn't look good."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "9650aca8-83aa-4327-8e3b-a61539c666db",
+    "parts": [ {
+      "text": "Your prediction is not perfect."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "0cdb4730-efeb-4e15-ac32-4f77784d14ac",
+    "parts": [ {
+      "text": "Totally wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "80f1d3f8-f88b-48da-a5b4-c58ee0644f32",
+    "parts": [ {
+      "text": "I'm not in agreement with you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4c83111f-2c85-4141-9795-a561d1733f61",
+    "parts": [ {
+      "text": "This is not the exact location."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f75528a0-ffb3-417d-bdae-4813d7353c9a",
+    "parts": [ {
+      "text": "You are incorrect."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "0ac6a04b-1e42-41fc-a504-d0328e1a652c",
+    "parts": [ {
+      "text": "This is not the right location."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f33a9b63-3db9-4af9-97f5-f3fc3824b41e",
+    "parts": [ {
+      "text": "It is not the correct location."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "79922d3a-2032-4bff-b39e-c513aceef5bb",
+    "parts": [ {
+      "text": "You did not guess it perfectly."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "5103b9a5-a3ba-4b01-9c23-ad1c12c41af4",
+    "parts": [ {
+      "text": "Your prediction is not correct."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7951c3e4-b89d-482f-a92d-433bd9e710a5",
+    "parts": [ {
+      "text": "I am not with you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "897752dd-8010-4902-8ab7-ef6474fde6d2",
+    "parts": [ {
+      "text": "Not agreed"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "37a54957-6a57-4bbe-8eee-e593758efed5",
+    "parts": [ {
+      "text": "I can't agree with you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "fef73a77-5463-4d40-8772-3452c2a3b4ae",
+    "parts": [ {
+      "text": "I don't agree with you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "052a6dd2-52c5-4f62-bbc8-b1df0283481d",
+    "parts": [ {
+      "text": "It's not perfect location."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "2de5d262-352c-4a99-b58d-ba5d92abf117",
+    "parts": [ {
+      "text": "You are not perfect with location."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "68355803-0822-4d5c-9817-0d05204af353",
+    "parts": [ {
+      "text": "You are not right."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f5c5e8d4-3b38-47f8-9541-314b36e90acb",
+    "parts": [ {
+      "text": "You did not guess it correctly."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f3c935d9-29b4-4575-8884-23ea766a6234",
+    "parts": [ {
+      "text": "This is wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "5ddab96d-b64d-4c35-9568-72fbb80751af",
+    "parts": [ {
+      "text": "No, I said something else"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "74f8a272-539d-49a5-875b-00ffa6d101f0",
+    "parts": [ {
+      "text": "Let me repeat"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4af26282-e0bd-4b97-9f96-85973d781af1",
+    "parts": [ {
+      "text": "Something is wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "1175847d-6be5-4d3a-9e54-4f5691827ccd",
+    "parts": [ {
+      "text": "I don't live there"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "9ef5b472-07ed-44c5-8821-27efd6320e00",
+    "parts": [ {
+      "text": "I live somewhere else"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "eb24bb61-6d1f-424f-a72a-020149ea7ae6",
+    "parts": [ {
+      "text": "This is not my address"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "dc33f74c-0ea0-4d11-9daf-8d26be0b1793",
+    "parts": [ {
+      "text": "You got it wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b9222090-d78e-4e1f-828e-62581e342e9d",
+    "parts": [ {
+      "text": "Not my street"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "adcdb1c2-277f-4551-af65-ff2868af808c",
+    "parts": [ {
+      "text": "Not my city"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "8db481dd-14ea-4164-a18d-891fe52e7407",
+    "parts": [ {
+      "text": "Not my country"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "fd142b4d-f818-4f10-8f7a-21b2bdab5e77",
+    "parts": [ {
+      "text": "Wrong zip code"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "c2161ffb-9936-49bf-a806-391b38bb0f56",
+    "parts": [ {
+      "text": "Wrong postal code"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "161572c5-7c21-40da-8aae-e07dbf6d0b40",
+    "parts": [ {
+      "text": "This is mispelled"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6e8fb32f-c01d-48c2-8d02-50a8b4ff3149",
+    "parts": [ {
+      "text": "Where did you get it from?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "08117b38-47b3-405b-b532-734e4bd91219",
+    "parts": [ {
+      "text": "Street is incorrect"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "c8ba1c7b-874f-4875-9e4c-cd1516cb57be",
+    "parts": [ {
+      "text": "You misunderstood"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "bfd6cc4a-c355-47d9-96bf-4b7585a06b33",
+    "parts": [ {
+      "text": "This is invalid"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "5b5523b6-07b6-4156-ae42-06c4b1cfa976",
+    "parts": [ {
+      "text": "It doesn't even exist"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7b980f96-94eb-494b-9c42-ebdfa591195f",
+    "parts": [ {
+      "text": "There's no such thing"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "65d9df7a-9dce-4abf-b3ee-aa6e1664aab2",
+    "parts": [ {
+      "text": "Not really"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "cc526bef-39a1-4671-b8f7-8ffa9889ba7c",
+    "parts": [ {
+      "text": "thank you",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "1176d18e-1c3b-4202-98b1-7e6875c65711",
+    "parts": [ {
+      "text": "thanks",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  } ]
+}

@@ -1,0 +1,626 @@
+{
+  "trainingPhrases": [ {
+    "id": "51c76a31-3928-4ab2-b705-e63f29e313fc",
+    "parts": [ {
+      "text": "yup"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "71bf8259-ef36-4ae8-a2c3-c71cd87a0b98",
+    "parts": [ {
+      "text": "You’re right."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "45727f0b-d9ac-4743-84bb-d8b3c3eb88c6",
+    "parts": [ {
+      "text": "You said it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d7f975bf-dbb2-450b-a9b7-ce2a76c27fec",
+    "parts": [ {
+      "text": "You know it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "642e12fc-50c7-414d-8bc8-e42632de0c93",
+    "parts": [ {
+      "text": "you did"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "60f44ff8-7462-49da-8c97-be3daf5254f3",
+    "parts": [ {
+      "text": "Yes."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "c4c66243-a545-441c-87cf-225f188fb68b",
+    "parts": [ {
+      "text": "Yes, that's the case."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "906c2164-2835-4b08-b61e-511342cddd95",
+    "parts": [ {
+      "text": "Yes, that's spot on."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "44ad2ea5-c731-40a4-a5ed-44023cf32f1e",
+    "parts": [ {
+      "text": "yes sure"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "833f4380-ab8c-42d7-9fa3-6995228630b0",
+    "parts": [ {
+      "text": "yes please"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "80fd5dc5-ae08-4ce1-a6c9-3f43983479fe",
+    "parts": [ {
+      "text": "yep"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "92aceb1a-4d8e-4ba4-a515-6d2fc9c5fc15",
+    "parts": [ {
+      "text": "yeah, why not"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d7a09795-275b-45e0-84f6-c35b26964b61",
+    "parts": [ {
+      "text": "yeah, its fine"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d7289fb5-e0a7-4bd3-bd3c-cfd3323477fa",
+    "parts": [ {
+      "text": "yeah that's true"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "63eb536b-467c-4e6a-9ff0-c4e420298410",
+    "parts": [ {
+      "text": "yeah"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2ce9596e-310a-4aaf-b13f-5e769499eb1c",
+    "parts": [ {
+      "text": "yaa"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "4360f687-1ce1-4a67-b078-6ef7a56550e6",
+    "parts": [ {
+      "text": "Without a doubt"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "56f1b6c7-e60c-49d2-b452-8c2e83cbedda",
+    "parts": [ {
+      "text": "We can attempt it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "07f4159c-7499-4e13-b95f-87eb4316f9a5",
+    "parts": [ {
+      "text": "Uh-huh"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "4547c17b-c394-4763-b65f-3f0f01550ebc",
+    "parts": [ {
+      "text": "they are"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "096d015e-6495-47a7-94f2-7c5b0065ebc1",
+    "parts": [ {
+      "text": "That’s a great idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0150300c-c40a-4d57-939a-86797586c3a3",
+    "parts": [ {
+      "text": "That's right."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "b7f6ba4b-63a8-4f5d-8b10-1760b134da40",
+    "parts": [ {
+      "text": "That's correct"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "c1032eca-f323-4dda-ae39-d343609d0906",
+    "parts": [ {
+      "text": "Ten four"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "da2777f2-6313-465e-bb51-1cd294c7ec01",
+    "parts": [ {
+      "text": "Take a chance on it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "1b633c6e-06e4-4ae5-824b-262484a58a4a",
+    "parts": [ {
+      "text": "Sure."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "cbad64ac-aabd-4354-911e-07edddafe186",
+    "parts": [ {
+      "text": "sure thing"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "172c8860-2cdd-4c90-a213-a5f79c73a62b",
+    "parts": [ {
+      "text": "sure"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "042763e5-4bbf-4084-9027-414479d8c351",
+    "parts": [ {
+      "text": "sounds good"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "24f1a563-2b12-4521-9aa2-fefa328670b7",
+    "parts": [ {
+      "text": "Righto"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d5b3d7d8-ac99-4dc0-940f-ee181d535d11",
+    "parts": [ {
+      "text": "Right on"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "20a052e7-0470-4b2c-b347-f35b69f3e4b2",
+    "parts": [ {
+      "text": "Precisely."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "13e6e71c-df5d-4389-8451-c3d7f899c3d7",
+    "parts": [ {
+      "text": "Positively."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f2dde1c7-0832-46e2-9236-ebc152ac36cd",
+    "parts": [ {
+      "text": "please do"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "03b1c28e-6e70-4dae-88f4-e02712f3b693",
+    "parts": [ {
+      "text": "okay"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "47da11a3-21cc-4cb4-82bf-604c57b67935",
+    "parts": [ {
+      "text": "ok. thanks!"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "41d4c6bc-7100-4407-ae3b-bcd357481744",
+    "parts": [ {
+      "text": "ok"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "51a32c52-5918-4fab-9b7b-8f2d45c07fc7",
+    "parts": [ {
+      "text": "Of course."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f498d52d-b568-40a0-aa3e-8b7bfc504851",
+    "parts": [ {
+      "text": "Mhm"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d46d4071-e187-4a7e-b4a6-8c4e7c3deb15",
+    "parts": [ {
+      "text": "Let’s try it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f31070f1-5d05-41a4-aca9-1b80bb3c883e",
+    "parts": [ {
+      "text": "Let’s go for it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2e51ff87-ebe8-4aa0-b283-f02f8754ab17",
+    "parts": [ {
+      "text": "Let’s do it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ac06b1a5-77f2-4d80-a0c3-361f46b0d4ce",
+    "parts": [ {
+      "text": "Let's test it out."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "93c6a149-7ece-4e42-bc7d-8408458684a6",
+    "parts": [ {
+      "text": "Let's take the plunge."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6f51f4ca-9b21-4274-8db0-36a65bb245cd",
+    "parts": [ {
+      "text": "Let's see if it works."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "cfc09ad3-9f93-456a-b37f-4569ebd237ee",
+    "parts": [ {
+      "text": "Let's see how it goes."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "249b66d2-5c1b-4561-b66d-f7fdc6967369",
+    "parts": [ {
+      "text": "Let's experiment with it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "baeff5ef-0e0a-4d86-b263-7ee0a833eb54",
+    "parts": [ {
+      "text": "it's right"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "fc9cd9bf-55b3-4923-84cd-54bd19853bfb",
+    "parts": [ {
+      "text": "it's good"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "345af6b7-ef18-4e07-abc7-b79b7e511c71",
+    "parts": [ {
+      "text": "it looks good"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "44be688d-727e-419b-b9e5-e54f088a6d6d",
+    "parts": [ {
+      "text": "Indeed."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "34d7ea34-b632-42cd-871f-a3cbafcdfced",
+    "parts": [ {
+      "text": "I’m with you."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0f6e1510-1475-423e-aa29-e53d82221c75",
+    "parts": [ {
+      "text": "I’m wild about that idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "820ddaef-f4e9-4798-ab57-aa8e9c30d0f0",
+    "parts": [ {
+      "text": "I’m up for it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "55da6bbb-8764-4c40-9f60-0e8457c53238",
+    "parts": [ {
+      "text": "I’m sold on that idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "adc8e876-ede9-42b8-99e8-80a84405b7ab",
+    "parts": [ {
+      "text": "I’m persuaded."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6584fb38-1cd2-4f07-b2b3-6893d33a5d5f",
+    "parts": [ {
+      "text": "I’m on board."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "24325678-ff6e-4e2c-a09c-99015eb53d41",
+    "parts": [ {
+      "text": "I’m in."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0fab1888-63e8-4110-95cc-9d1345057237",
+    "parts": [ {
+      "text": "I’m in favor of that idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "66cb9ed3-810c-4dbd-83cf-3d80975858d8",
+    "parts": [ {
+      "text": "I’m game."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "c1941b68-79f0-4ad3-8598-a92ca04486e2",
+    "parts": [ {
+      "text": "I’m for that idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "0515ba29-9666-4c5e-8950-ec61494d8403",
+    "parts": [ {
+      "text": "I’m down."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "543a88f5-0490-4dfd-bc15-f827113104d1",
+    "parts": [ {
+      "text": "I’m down with that idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "409a5c1c-f2c4-40e0-9c48-4a01b97c7136",
+    "parts": [ {
+      "text": "I’m crazy about that idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ef070c69-975d-4474-96e7-7da81b83f1d9",
+    "parts": [ {
+      "text": "I’m convinced"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "4bcbd14b-284d-4b40-9211-941b08d6396a",
+    "parts": [ {
+      "text": "I’m a huge fan of that idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "aa4e97e2-df6d-4c0c-98d1-af62032954fa",
+    "parts": [ {
+      "text": "I’m a big fan of that idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "faaff21b-ac1d-4183-b08d-347517a8acc8",
+    "parts": [ {
+      "text": "I’ll try it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6fac8219-8134-4b65-a7fd-80d9c5ba83b3",
+    "parts": [ {
+      "text": "I’ll go for it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ee89ff92-f881-4f08-9dc3-383a53b4cbcc",
+    "parts": [ {
+      "text": "I’ll give it a shot."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "b9a1d124-1309-43ed-863a-54fff6c1b7d9",
+    "parts": [ {
+      "text": "I’ll do it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "91ff5004-3d23-46d1-8638-d1a17457c400",
+    "parts": [ {
+      "text": "I think that’s a great idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e175e0fe-aa3c-4772-a25e-d3b47d5b75c1",
+    "parts": [ {
+      "text": "I love that idea."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ba49d611-2453-4708-ab76-0a146c4aa62f",
+    "parts": [ {
+      "text": "I have no doubts anymore."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "fed1796d-749b-4ee9-bce7-3fe0fdd75fce",
+    "parts": [ {
+      "text": "i have it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2e0ee867-f8e1-400f-8746-b8d9632b4f70",
+    "parts": [ {
+      "text": "i do"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "59cc8a6c-aa0b-455b-80b7-5430469eeb51",
+    "parts": [ {
+      "text": "I concur"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "209fdbca-9ead-4f94-bc36-79d1bb8bc10e",
+    "parts": [ {
+      "text": "i can"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "9651ce57-dbea-4dfb-9a00-8b90558961f4",
+    "parts": [ {
+      "text": "I approve"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "50217f84-3772-4570-a5c5-1a24c9675c67",
+    "parts": [ {
+      "text": "I agree."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "070bda8a-5a14-4078-80ce-4673b2b010f4",
+    "parts": [ {
+      "text": "Gotcha"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e1f0fc4f-5028-4ed0-bd38-3d763ab6dec5",
+    "parts": [ {
+      "text": "Gotch"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "79f3b7ef-0055-4ef2-9680-f69c05ccc596",
+    "parts": [ {
+      "text": "Exactly."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6a303014-8982-40b3-87cf-a1420431ecaf",
+    "parts": [ {
+      "text": "Definitely."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "fd9ab8e6-e7fe-4ac6-ba9b-8a69de9ea1b4",
+    "parts": [ {
+      "text": "Certainly."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "abc7ce60-86c1-4db9-aae3-40a57b004dc2",
+    "parts": [ {
+      "text": "approve"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "60d478b8-a1e0-4127-96ef-e28ecdc2ec89",
+    "parts": [ {
+      "text": "alright, thank you"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "50508327-2496-4845-b869-4189642546f1",
+    "parts": [ {
+      "text": "Absolutely."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "83ebe81a-5e13-4085-88cf-8700937c7092",
+    "parts": [ {
+      "text": "10 4"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  } ]
+}

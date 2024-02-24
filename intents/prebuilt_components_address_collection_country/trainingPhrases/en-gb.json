@@ -1,0 +1,443 @@
+{
+  "trainingPhrases": [ {
+    "id": "521716ff-9576-4ae6-bfb1-6958ae68906b",
+    "parts": [ {
+      "text": "I don't recognize the country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "daaf3211-63c7-488d-bf26-f55da4392fb5",
+    "parts": [ {
+      "text": "You are having a hard time understanding the country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "fa8d546c-8cb3-4450-a8e9-4708fa2a0b1b",
+    "parts": [ {
+      "text": "I want to go ahead with changing country name.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "08768dfb-76af-459f-92ab-b6beb9eca25b",
+    "parts": [ {
+      "text": "Let's go again for the nation.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "18c71c43-5f32-4820-a423-ce86116f6a1e",
+    "parts": [ {
+      "text": "I would really appreciate if we could change the country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "745669fd-8b2c-42ce-8496-9e4917a46cd2",
+    "parts": [ {
+      "text": "It's better if we change the nation.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b17faaf6-fc99-433b-81fc-1a9a032cff9f",
+    "parts": [ {
+      "text": "Let's change the country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "5c2357c0-17b2-4c48-8c32-837c4d432c64",
+    "parts": [ {
+      "text": "How about altering country?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "8fdf16a1-6243-41b4-a911-b3525b50bf68",
+    "parts": [ {
+      "text": "I believe you have the wrong nation.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b73d7604-f3af-4566-8228-3fd580291786",
+    "parts": [ {
+      "text": "Help me change the country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6af3e9fa-63d8-42db-b744-cfc383623967",
+    "parts": [ {
+      "text": "How can I change the nation?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "cde91801-ef39-4879-8747-f732b5b0f4f6",
+    "parts": [ {
+      "text": "You might wanna reconsider taking a new country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "cda46017-e9c3-44ee-aa1c-74310131d7bc",
+    "parts": [ {
+      "text": "Is there any way I can alter the country?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "cd44c85b-0a90-4d6a-bc9b-8f44633650c2",
+    "parts": [ {
+      "text": "The nation seems a bit off.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "719848a8-ef04-491c-94d0-ea0955f561ad",
+    "parts": [ {
+      "text": "The country is not accurate.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6e972fd3-cdc7-4f3d-aa59-b8d7a3b000e4",
+    "parts": [ {
+      "text": "The country is missing in the address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "1fd917a3-0e22-4629-9c3c-0290bfcdc9ac",
+    "parts": [ {
+      "text": "The country name needs to be changed.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "e203807e-abaf-4c5e-87d1-ab4a645e8e93",
+    "parts": [ {
+      "text": "You are just wrong about the nation.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "01f073a5-826e-45fe-8ad8-cbc0f7cf9d73",
+    "parts": [ {
+      "text": "Only the country was incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "52096cae-31aa-4f64-8349-423fff65a299",
+    "parts": [ {
+      "text": "I'm sorry, I mistakenly provided the wrong nation.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6eab2670-bbe4-4184-97dc-8b2ba579431c",
+    "parts": [ {
+      "text": "Unfortunately, I said the different country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "94a382f8-68a8-4816-9891-2b8841b12781",
+    "parts": [ {
+      "text": "You predicted the country incorrectly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "990c1809-4acb-4943-b625-6b02660127b8",
+    "parts": [ {
+      "text": "That's not the right country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f302652f-af70-4327-a15d-b7609d36fd82",
+    "parts": [ {
+      "text": "Change the country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "e4960767-7d22-45eb-bdcb-fc6eb6449267",
+    "parts": [ {
+      "text": "Update the nation.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "dd728d07-da07-4f7a-9f25-d5e5389f093c",
+    "parts": [ {
+      "text": "you are just wrong about the country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "689f0abf-6244-4e86-ae46-eb5f0f348606",
+    "parts": [ {
+      "text": "Please change the country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "8f24b86f-a5d1-41b8-9c5f-98849ffb4ff6",
+    "parts": [ {
+      "text": "You did not get my nation.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "09ee0ad1-6426-4c65-ba3a-ad9f242511e5",
+    "parts": [ {
+      "text": "The country you found is not part of my address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d51dd008-2cf8-428e-901d-ffdd65646914",
+    "parts": [ {
+      "text": "I am not sure about the nation.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "87e20120-faff-4b15-a790-ff630044f578",
+    "parts": [ {
+      "text": "It is country name.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "eecaf564-c808-4cb7-887a-f0ac6d013a40",
+    "parts": [ {
+      "text": "The country is different.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "cfbafec4-3265-409d-887a-b048941ec7a5",
+    "parts": [ {
+      "text": "You predicted the nation's name wrong. Can you please change it for me?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "313ecdf3-fbcf-49fe-a9f3-171299380eb5",
+    "parts": [ {
+      "text": "I think you got the wrong country name, I would like to change it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d70154c6-4dff-4018-81eb-416f75d9bfe5",
+    "parts": [ {
+      "text": "I want to change the nation name.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b370fc86-e334-4753-b920-8d30186f876f",
+    "parts": [ {
+      "text": "I mispronounced the country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "15fd8528-178c-42f5-9d9f-72b6dbaec98d",
+    "parts": [ {
+      "text": "You guessed the country wrong. Please update it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7af1534b-9fe0-4207-9971-127f7ae87af4",
+    "parts": [ {
+      "text": "I just need modification for the country name",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d9fa1b6b-ad27-4860-b534-3ad298d56a87",
+    "parts": [ {
+      "text": "It looks good except country",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "db69f007-46ba-4bd7-bc54-a55953da83de",
+    "parts": [ {
+      "text": "please update the nation",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "06dee5bc-bfb9-482c-9edd-5d3bf083ea5d",
+    "parts": [ {
+      "text": "the nation",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "72ddb427-aabb-4735-831e-0275a12cd3dd",
+    "parts": [ {
+      "text": "I would like to change my country.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "e8fd6f8c-6fa7-4ec2-a009-54e745c77c02",
+    "parts": [ {
+      "text": "The country name was incorrect. Please modify it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "352bfae7-ca38-4ab1-acbe-3ff828878216",
+    "parts": [ {
+      "text": "Please modify the country name.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "5445ebc2-8751-4ed5-87cd-1d465b1ee006",
+    "parts": [ {
+      "text": "I want to update the country name.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a0ebe3af-df7e-4a6d-9c76-018a743bcfa6",
+    "parts": [ {
+      "text": "the country name is wrong. Please update it.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "48abf78d-e63b-46a3-af78-c0ed7dc765de",
+    "parts": [ {
+      "text": "just the country",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "849c5a1f-0932-478a-8168-7678e010ae43",
+    "parts": [ {
+      "text": "country please.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "027ee461-055f-42d4-bea6-fb03aba069ac",
+    "parts": [ {
+      "text": "the country is not right.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "dac0b5b7-b954-4ec8-a222-632ada93977e",
+    "parts": [ {
+      "text": "the country",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "8e3b062c-57ad-4dd3-99c0-799d22268e59",
+    "parts": [ {
+      "text": "Country is wrong",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "3d61ff29-a42c-49a2-bd3d-1b860da0053d",
+    "parts": [ {
+      "text": "My country is wrong",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "899eff51-33b0-4581-b4a0-f1fd0a1c5eb6",
+    "parts": [ {
+      "text": "You got the country wrong",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "768e2feb-c066-41c3-9eb8-2388dec98082",
+    "parts": [ {
+      "text": "Country is incorrect",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "ccd443c4-1bcf-4434-975d-614a54c389cb",
+    "parts": [ {
+      "text": "This is not my country",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  } ]
+}

@@ -1,0 +1,115 @@
+{
+  "trainingPhrases": [ {
+    "id": "7c803f8a-816b-45bf-a92f-042e5c1b9fb4",
+    "parts": [ {
+      "text": "eftermiddag",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "459b47b3-f13f-4f8e-88c0-f5a8732121ef",
+    "parts": [ {
+      "text": "hej med dig",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "0e971a58-d419-416f-b888-4282f418b57c",
+    "parts": [ {
+      "text": "hejsan",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "5bada703-503c-422e-931a-8a360b1d2c29",
+    "parts": [ {
+      "text": "en god dag",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "8b876a14-49f6-48cf-990c-0a431fc793fe",
+    "parts": [ {
+      "text": "hallo hej",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "d2849610-d9e1-46a7-882b-861dc0ea4dbc",
+    "parts": [ {
+      "text": "hej",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "ef93b10a-53bb-41c3-a9b8-90d547304a51",
+    "parts": [ {
+      "text": "hilsner",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "cdd6edd0-c225-4600-9dfa-054ed7558c35",
+    "parts": [ {
+      "text": "hejsa",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "af4b4e62-64d7-4abd-879f-87e9efc69ec4",
+    "parts": [ {
+      "text": "jeg ville bare sige hej",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "bbb08de7-02e5-4518-9d5d-92c050494238",
+    "parts": [ {
+      "text": "jeg hilser på dig",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "ff99b73a-4064-40bc-8a6d-a963b87fa184",
+    "parts": [ {
+      "text": "hej igen",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "fc3b1522-8ab3-4aea-8646-0059e6bb02e2",
+    "parts": [ {
+      "text": "det er længe siden",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "d80f83e8-05b2-4b0e-a52e-7d48f7778879",
+    "parts": [ {
+      "text": "dejlig dag synes du ikke",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  }, {
+    "id": "dbc3afef-98eb-4350-9b4b-b70eea8fc4f4",
+    "parts": [ {
+      "text": "davs",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "da"
+  } ]
+}

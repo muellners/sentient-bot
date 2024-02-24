@@ -1,0 +1,466 @@
+{
+  "trainingPhrases": [ {
+    "id": "bd9da5d9-923b-4e60-b3ea-6d47c745de55",
+    "parts": [ {
+      "text": "I don't recognize the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "7ffd2394-b070-44f0-8a2c-1feb40ef0389",
+    "parts": [ {
+      "text": "You are having a hard time understanding my street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "80f26e5f-1bf6-42b3-966d-b0b687ed6b35",
+    "parts": [ {
+      "text": "I want to go ahead with alternate street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "1c7f3c8a-b53a-4876-bda3-766f245a3552",
+    "parts": [ {
+      "text": "Let's go again for the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "5e59a017-7a51-441a-a491-42041322e2c9",
+    "parts": [ {
+      "text": "I would really appreciate if you can change the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "abe270f8-4292-442f-afd0-c66058237f9a",
+    "parts": [ {
+      "text": "It's better if we change the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "8a05284e-9572-4c3f-be66-16fea0ef4a69",
+    "parts": [ {
+      "text": "Let's change the number of the street.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "a738d21a-3cf9-4169-9e5b-604310176fa1",
+    "parts": [ {
+      "text": "How about altering street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "a08eaddb-6499-45a9-a25a-9ca907de4ace",
+    "parts": [ {
+      "text": "I believe you have the wrong street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "188529ad-32b8-4011-8b07-72fab0bd6e11",
+    "parts": [ {
+      "text": "Help me change the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "ad99815d-0a9a-4689-a807-e2e3af10ae43",
+    "parts": [ {
+      "text": "How can I change the number of the street.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "86a9db63-57af-4345-a4c6-e39c67240f05",
+    "parts": [ {
+      "text": "You might wanna reconsider taking new street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "1f23ef5c-b47e-4f19-8623-a58079bb5bf6",
+    "parts": [ {
+      "text": "The number you identified of the street is not right.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "2a63e2f6-10d2-40e7-9010-055e2570c3c9",
+    "parts": [ {
+      "text": "Is there any way I can alter the number of the street.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "06010d3c-ca04-4e87-a19c-35d5f660b252",
+    "parts": [ {
+      "text": "The street number seems bit off.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "21d633bc-bef7-413d-a3c1-335b62d7e28d",
+    "parts": [ {
+      "text": "The number of the street is not accurate.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "d75e9e7a-81ae-45cc-826b-02c60e06043f",
+    "parts": [ {
+      "text": "I would like to update the number of the street.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "b8f20b51-58d0-4ac1-9f97-be79c3f84086",
+    "parts": [ {
+      "text": "I told the wrong number of the street.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "099eb262-b21f-4ebb-876b-dd746325ce44",
+    "parts": [ {
+      "text": "Number of the street looks incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "77d880f7-35f3-4dbb-a051-07b3204e67bd",
+    "parts": [ {
+      "text": "The street number is different.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "7872e6b2-3430-44da-84b6-d762ab3d3787",
+    "parts": [ {
+      "text": "I think street number is invalid.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "3967b131-531b-47ab-89af-5bf8870ccf8d",
+    "parts": [ {
+      "text": "Everything else looks good except the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "a71fc03c-b4f9-4a97-9596-be611642d294",
+    "parts": [ {
+      "text": "You are just wrong about my street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "499c7bf7-7316-4df7-ae43-314ab15d5bbd",
+    "parts": [ {
+      "text": "Only the street number was incorrect. Please update that one.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "383f0c56-6abe-4a18-8339-da9ffe3e47a6",
+    "parts": [ {
+      "text": "Can you update the street number please?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "fc3eefb4-0183-48c4-93b9-e6b53f40f84a",
+    "parts": [ {
+      "text": "You did not get my street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "7b4a6507-c129-47f9-935e-c7b204c17108",
+    "parts": [ {
+      "text": "You did not guess my street number correctly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "1ee5b73a-876c-439b-8347-77f7566d7daa",
+    "parts": [ {
+      "text": "My street number is not correct.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "99f61d40-8008-4bbd-8d95-9d88e842d014",
+    "parts": [ {
+      "text": "This is not my street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "fda8fc4e-6c1a-4550-b9d6-fd5c965d01a6",
+    "parts": [ {
+      "text": "The street number you found is not the part of my address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "71c6b371-9dc0-4fa0-8d69-159210d36f7b",
+    "parts": [ {
+      "text": "You got street number incorrectly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "49feb6a3-1556-497b-b466-9de7dda89ea8",
+    "parts": [ {
+      "text": "I am not sure about the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "fe529067-6e78-440e-804b-6399a5f3d8e4",
+    "parts": [ {
+      "text": "the street number is missing in the address",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "ebd20516-0da9-46bf-80d9-7912fa5bb04b",
+    "parts": [ {
+      "text": "please change the street number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "f7894772-b917-401f-99db-f64ed3ced1e8",
+    "parts": [ {
+      "text": "please correct my street number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "4fc63e74-247a-4f0a-b807-b0e103a77c24",
+    "parts": [ {
+      "text": "please update my street number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "6336a453-2cc5-41f4-8a77-28e75e7b86f6",
+    "parts": [ {
+      "text": "the street number needs to be changed.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "d79cdc71-f125-4956-ae12-b085fed8011f",
+    "parts": [ {
+      "text": "It is street number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "0c32f9f3-2574-4ae6-aa9f-b1689c15c9de",
+    "parts": [ {
+      "text": "you are just wrong about the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "6d6e4db0-4a34-419a-a5d1-0b53edd23115",
+    "parts": [ {
+      "text": "only the street number was incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "c85a6464-c91f-430d-9a78-2118a64de868",
+    "parts": [ {
+      "text": "can you update the number of my street.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "311c8d03-00b5-4558-995e-35154205a758",
+    "parts": [ {
+      "text": "can you please change my street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "03c5e7bc-fa8f-4ea3-8341-f20e294a1848",
+    "parts": [ {
+      "text": "I'm sorry. I mistakenly provided wrong street number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "b652078d-39b0-4e31-8b44-95fe2a36c871",
+    "parts": [ {
+      "text": "Unfortunately, I said a different street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "1a4f794a-7b3e-45b3-aba3-0694bb72558a",
+    "parts": [ {
+      "text": "i want to change my street number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "e850bcfe-52d4-4ed3-ad4f-5542fe8c6a18",
+    "parts": [ {
+      "text": "you guessed the street number incorrectly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "222a9248-b4ab-4548-a169-29ffbbdc5508",
+    "parts": [ {
+      "text": "street's number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "8c732f0a-8698-45d1-b8c2-63f40b3ad2df",
+    "parts": [ {
+      "text": "the number of my street",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "138f745f-dcf0-41c4-8886-18e14d0f1f0c",
+    "parts": [ {
+      "text": "the number of my street is wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "c4d199b6-b176-4513-8672-f4f72bbaea8a",
+    "parts": [ {
+      "text": "the street number is wrong, please change it",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "06b4117f-ac1d-4063-a095-4b8a83f55567",
+    "parts": [ {
+      "text": "street number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "42d6590c-4d9c-467e-a6a0-44c2f0d76a31",
+    "parts": [ {
+      "text": "street number, please.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "38986eae-96c6-47dd-ba6b-ba503ff61f33",
+    "parts": [ {
+      "text": "I want to change the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "f474eadd-2e9a-4dc7-90d1-5abf7b176172",
+    "parts": [ {
+      "text": "Street number is incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "e0545370-939b-493f-bf9a-8bfe320d5ace",
+    "parts": [ {
+      "text": "Street number is wrong."
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en-us"
+  }, {
+    "id": "b840c38c-50a2-434f-8b21-7845bda3db88",
+    "parts": [ {
+      "text": "Update the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "ae883111-57f4-4c6e-b2dc-ae55ee728ff7",
+    "parts": [ {
+      "text": "Change the street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "4a589cca-0215-4b3f-a20d-0ecf3dbd0930",
+    "parts": [ {
+      "text": "That's not the right street number.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

@@ -1,0 +1,378 @@
+{
+  "trainingPhrases": [ {
+    "id": "9c4acbf0-8892-4ab4-babf-323b7ecb88c3",
+    "parts": [ {
+      "text": "I think we should wipe the slate clean with the address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "6439f851-1656-425a-838a-4dba57ba865e",
+    "parts": [ {
+      "text": "Let's start fresh with the address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "455f4e61-a332-4ac0-8537-9f90de2a70f9",
+    "parts": [ {
+      "text": "restart",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "8187f90d-c213-4669-96be-590bb26f0f34",
+    "parts": [ {
+      "text": "reset",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "48f131ba-afdd-48d3-98bc-41bac681fec0",
+    "parts": [ {
+      "text": "reset the address",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "05ef9641-32b7-4fec-884f-7ea205b22de8",
+    "parts": [ {
+      "text": "everything",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "9ef3aa80-7a38-492f-b61c-df708b803030",
+    "parts": [ {
+      "text": "I want to change every element",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "b407cd29-4642-476b-bec8-e6dd7ee3d5f8",
+    "parts": [ {
+      "text": "change everything",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "30366996-b87a-4aa4-8e88-e9c9e4ae3cba",
+    "parts": [ {
+      "text": "Can we modify the whole address?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "e895a924-a6ec-4ab7-98f3-de3f681fc423",
+    "parts": [ {
+      "text": "I want to edit the complete address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "86d9a276-79f1-44c4-9ad6-a298d47deb5b",
+    "parts": [ {
+      "text": "I need to amend the entire address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "788b3d81-2674-4dad-ae86-6cdc567eacc2",
+    "parts": [ {
+      "text": "Please update the whole address for me.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "c3db26db-537c-4343-be19-0dbdab35beee",
+    "parts": [ {
+      "text": "I would like to change the full address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7343517b-a90c-4676-81c8-9855a69bf210",
+    "parts": [ {
+      "text": "Can you help me alter the whole address?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "46410d4c-0c69-452d-8ecd-6e8b3c69eeb7",
+    "parts": [ {
+      "text": "I want to update the complete address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "265f1525-c815-4fde-bcf9-62a0d913d492",
+    "parts": [ {
+      "text": "Please modify the whole address for me.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "d798424c-acea-44d5-8f01-181dd7366567",
+    "parts": [ {
+      "text": "I need to correct the entire address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7c84f5a6-ab84-472c-b6e5-c5353b43c5d7",
+    "parts": [ {
+      "text": "Can we change the complete address?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "6898258c-cd1d-4489-be9e-0a944f949ee7",
+    "parts": [ {
+      "text": "I want to update the whole address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "92a200e8-8398-4e4d-8453-6ba2d10a836e",
+    "parts": [ {
+      "text": "Please alter the full address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7197a563-de3a-4fa4-90e0-a33e17b3e94d",
+    "parts": [ {
+      "text": "I would like to modify the entire address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "2ce9bb1b-62f7-49d6-8450-59cf24914e6b",
+    "parts": [ {
+      "text": "Can you help me change the whole address?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "29f3a078-00c5-4ff5-a629-0064760a5df1",
+    "parts": [ {
+      "text": "I want to correct the full address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "c665359b-457d-42ab-bfa7-2eda4e0597d6",
+    "parts": [ {
+      "text": "I need to revise the complete address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "250baaa6-2772-427d-aa53-a3f80c58c4aa",
+    "parts": [ {
+      "text": "Please update the entire address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "9bd688be-a021-4a3f-9155-ffdca4da9310",
+    "parts": [ {
+      "text": "Can you modify the whole address for me?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "0319cdc1-386a-4296-ab6c-23461845abae",
+    "parts": [ {
+      "text": "I want to amend the complete address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "1d591b7a-a980-4af1-8e19-3f7ca70ea96a",
+    "parts": [ {
+      "text": "I need to adjust the entire address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "456d670f-f41f-400d-bdf7-793bdf57ba98",
+    "parts": [ {
+      "text": "Can you please change the complete address?"
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en-ca"
+  }, {
+    "id": "6a411169-15c4-41f0-9f85-c86bd79d6f1a",
+    "parts": [ {
+      "text": "I want to correct the whole address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "45f87217-4d7d-47d5-ba57-438ceb308e90",
+    "parts": [ {
+      "text": "Please modify the full address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "c2644872-a61c-4fa2-a400-0f8bf1613b61",
+    "parts": [ {
+      "text": "I need to edit the whole address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "53ba370f-0cad-48e6-ab08-48b42660ef8b",
+    "parts": [ {
+      "text": "Can we update the complete address?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "476837a8-4f25-420b-a622-03bbc9f214f7",
+    "parts": [ {
+      "text": "I want to replace the whole address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "44330d04-dd52-4fe7-af3d-d3a37a056c3e",
+    "parts": [ {
+      "text": "Please change the full address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "3a0e1d6d-e39a-49a1-a8c0-0fcba1d2ef8e",
+    "parts": [ {
+      "text": "I would like to alter the complete address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "da99991a-f6b8-4b57-b5ed-2d93c9c01187",
+    "parts": [ {
+      "text": "Can you help me modify the whole address?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "5d4c0730-12d9-49bb-96db-c114acf135bf",
+    "parts": [ {
+      "text": "I need to update the full address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "6945c71a-9338-4b71-b7d1-184ca0d9d017",
+    "parts": [ {
+      "text": "I want to correct the entire address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "bf2056b2-e314-47d1-a234-3f8c9fcf5b2d",
+    "parts": [ {
+      "text": "Please modify the complete address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "52d0753e-0664-4296-908c-b8e8564a1012",
+    "parts": [ {
+      "text": "I need to edit the entire address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "b284de5d-585a-4b0a-87af-bb6a77209f74",
+    "parts": [ {
+      "text": "Can we update the whole address?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "730240d1-2c42-499a-b58e-73ce3f807860",
+    "parts": [ {
+      "text": "I want to replace the complete address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "eab4cec5-a510-4dd1-80c8-032d0a8c5064",
+    "parts": [ {
+      "text": "Please change the entire address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "e331a8ec-f686-4d09-9025-9f4226fb8b37",
+    "parts": [ {
+      "text": "I would like to alter the whole address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "0196bd99-8911-4c57-84d6-b829cba7d9ce",
+    "parts": [ {
+      "text": "Can you help me modify the complete address?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "38d3d9b9-23cd-4a7f-9ab5-681201cecc33",
+    "parts": [ {
+      "text": "I need to update the entire address.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  } ]
+}

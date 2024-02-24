@@ -1,0 +1,465 @@
+{
+  "trainingPhrases": [ {
+    "id": "82721c41-edbb-455d-aa69-2f79a5b13d4c",
+    "parts": [ {
+      "text": "Absolutely not!"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "bacf426a-88b1-494f-b8d4-8c858427774d",
+    "parts": [ {
+      "text": "Not a chance."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "53a125d4-dc54-4a8a-ba78-91260cbf54f5",
+    "parts": [ {
+      "text": "No, I don't agree."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "250487a4-990a-46df-8fa0-722eeeb08084",
+    "parts": [ {
+      "text": "That's misguided."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "3e912e0a-94e8-4ab1-9c80-0be05ccf98e8",
+    "parts": [ {
+      "text": "That's flawed."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2b2620e5-4f26-4a71-83c6-ddffa7e39dd4",
+    "parts": [ {
+      "text": "That's erroneous."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "4eb95afd-5d9d-4e97-8f57-58d56b5ed480",
+    "parts": [ {
+      "text": "That's untrue."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "4a82e839-32ca-4514-b59a-d9f6b40790a7",
+    "parts": [ {
+      "text": "That's wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6972f742-8cc0-439f-a9f9-f08e39299380",
+    "parts": [ {
+      "text": "Inaccurate"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ac3f318c-d93d-4cae-b4b0-eef8b23f1cfb",
+    "parts": [ {
+      "text": "Incorrectly stated"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "37cc89b8-cea1-477e-9be5-09c4e88ade63",
+    "parts": [ {
+      "text": "Flawed"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "14e224c5-b30c-4b09-8cdb-a6b658a69288",
+    "parts": [ {
+      "text": "Erroneous"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "dc001946-24ad-4a1b-b6e0-b8a2dd11e85f",
+    "parts": [ {
+      "text": "FALSE"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f199c6af-d9a4-4399-b41a-e8f9788d3f70",
+    "parts": [ {
+      "text": "Mistaken"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "cf178f19-578d-4844-9f77-75e56c19d918",
+    "parts": [ {
+      "text": "Untrue"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6520c054-7960-4e18-888f-b590a8303faa",
+    "parts": [ {
+      "text": "Of course not."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f57933be-156a-45bd-9380-c403f0d0f71e",
+    "parts": [ {
+      "text": "Invalid"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "a17e0874-0c01-4b7c-a465-3d8d09a24635",
+    "parts": [ {
+      "text": "wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2b976636-1dbe-4aa9-80d4-c666a83eb68a",
+    "parts": [ {
+      "text": "Unfortunately, that's incorrect."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "26e7149b-616f-4c47-be2b-078331513b4d",
+    "parts": [ {
+      "text": "This is incorrect"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "c170efc4-f651-49e1-97fa-181b0d0a2ba5",
+    "parts": [ {
+      "text": "This is inaccurate"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "be3465c0-d121-48ce-bb30-dddb3987e88f",
+    "parts": [ {
+      "text": "This is faulty."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "83153782-60d1-49af-9cef-2f9f8b71c173",
+    "parts": [ {
+      "text": "they are not"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "a65de3a9-011a-47ee-b2e8-077fb0c45c1e",
+    "parts": [ {
+      "text": "that's wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d7ad4401-bd79-4127-92a6-4d3efc283af7",
+    "parts": [ {
+      "text": "that's not right"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d76c800f-f8ef-4266-a6aa-61868001cc88",
+    "parts": [ {
+      "text": "That's not correct"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "eae840ae-9fa1-43c9-a21f-9dc300e1d961",
+    "parts": [ {
+      "text": "That's mistaken."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "52dd030c-65a2-4b3d-9f3c-a8de1b9924cf",
+    "parts": [ {
+      "text": "That's inaccurate."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "77bc5b1e-9743-4357-aaab-e4c131790bf9",
+    "parts": [ {
+      "text": "That's false."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "4cb03745-cfcf-4a10-908d-62d7a4d2d0de",
+    "parts": [ {
+      "text": "that would be it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "c6b228b7-b463-485a-82cb-cf8a32ed7d3e",
+    "parts": [ {
+      "text": "thanks"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "5afd1e38-f2db-4d59-87fe-fb6efd920f08",
+    "parts": [ {
+      "text": "thank you"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "1f1eb7fb-9e72-4f35-838f-0990df39048e",
+    "parts": [ {
+      "text": "still not"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2d1bf528-69ca-4ed6-aeec-b6f4c536ade7",
+    "parts": [ {
+      "text": "not yet"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "426dc1a7-2328-415d-a419-31033dc9445c",
+    "parts": [ {
+      "text": "not up to date"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "1324ec87-89b0-4266-8656-21fb5bcab17a",
+    "parts": [ {
+      "text": "Not this time"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "c0d2db86-cb9c-46c2-ad99-019ab6c7490d",
+    "parts": [ {
+      "text": "not right now"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "52c324ed-d9b0-45dc-a0ac-3d7dae024608",
+    "parts": [ {
+      "text": "nope"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "a89a91dd-936a-41ae-80f1-e5090e65af79",
+    "parts": [ {
+      "text": "noo"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "db32abde-19d0-49d0-a25a-320e61eea0df",
+    "parts": [ {
+      "text": "no,thats all"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e9e2a600-9ec3-4f39-b667-c8cb865f5813",
+    "parts": [ {
+      "text": "No, that's not correct."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "394ad424-e648-4931-8aac-9184265a707c",
+    "parts": [ {
+      "text": "no that's it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2b161c80-f2ca-4639-889b-a22ed4f456bc",
+    "parts": [ {
+      "text": "no thanks"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "5838ce3b-c309-47ed-9080-0ccc7695813a",
+    "parts": [ {
+      "text": "no please"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "460fb288-2010-4dca-ab57-e718abb42e30",
+    "parts": [ {
+      "text": "no don't"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "fdbb8f01-e684-46d4-8f6c-ad81cfb7843b",
+    "parts": [ {
+      "text": "no"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e3933d4b-feab-48a6-8926-515ab7975dfa",
+    "parts": [ {
+      "text": "nah"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e3fbdf2c-23fb-4e63-bbd7-97f9b3ac8297",
+    "parts": [ {
+      "text": "it's wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "bfccd05f-7546-45ce-b4b7-8a0fb3546ac6",
+    "parts": [ {
+      "text": "it's not right"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "b1c0869f-44ce-407c-8917-9da22f7d0bfb",
+    "parts": [ {
+      "text": "it's not good"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "26b42886-0d8c-498a-ba74-640c00812804",
+    "parts": [ {
+      "text": "it's incorrect"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "1335bc08-7cbf-4eb7-b027-ce8ded9c29bf",
+    "parts": [ {
+      "text": "Incorrect"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6e5da6fd-6400-4488-833b-0f02ca30edb5",
+    "parts": [ {
+      "text": "I'm not interested"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "c8ae178f-5ba7-4175-82e9-282fc38cb18a",
+    "parts": [ {
+      "text": "I'm not able to do that"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ad02b118-fa52-45f7-8f4c-d1378401f22a",
+    "parts": [ {
+      "text": "i'm good thank you"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "62bea9f5-e533-4e5e-877d-042a858e913c",
+    "parts": [ {
+      "text": "I'm good"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "1139659f-a0ce-41f4-aacc-261bb218ae37",
+    "parts": [ {
+      "text": "I'm fine"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ad19c22f-1748-4cbb-bad6-c6c10945b59e",
+    "parts": [ {
+      "text": "i still don't have"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "5e03fe8e-f995-48df-a3bd-88b4158e727c",
+    "parts": [ {
+      "text": "i still can't"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "946c00f9-1004-4ce0-b512-70e04557835d",
+    "parts": [ {
+      "text": "I don't want to"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "edea52d0-9410-487c-91f5-cc7edd790049",
+    "parts": [ {
+      "text": "I don't think that's a good idea"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "4008c47f-9c96-4daf-84d4-608b04d454d6",
+    "parts": [ {
+      "text": "I don't think that's a good fit for me"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "f021984b-a4ba-481e-8e87-e99691fc069b",
+    "parts": [ {
+      "text": "I don't think so"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ef355a51-1a23-4d4e-8dcb-ce7c240bce28",
+    "parts": [ {
+      "text": "i can't"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e412873a-e0a7-4750-bfec-9c536400b4db",
+    "parts": [ {
+      "text": "Actually, that's incorrect."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "2d25efe8-9148-459e-970e-cf934fc76d36",
+    "parts": [ {
+      "text": "actually thats wrong"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  } ]
+}

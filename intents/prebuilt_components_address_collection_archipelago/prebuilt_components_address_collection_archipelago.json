@@ -1,0 +1,11 @@
+{
+  "name": "2e576a12-3037-4d1a-8e4b-77c7cca192fc",
+  "displayName": "prebuilt_components_address_collection_archipelago",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-head",
+    "value": "sys-head"
+  } ],
+  "description": "Used to indicate this address element needs to be changed. Archipelago indicates the precise archipelago name.",
+  "numTrainingPhrases": 342
+}

@@ -1,0 +1,7 @@
+{
+  "name": "00af6b36-a9aa-4741-aead-d70b1499c332",
+  "displayName": "prebuilt_components_address_collection_address_correct",
+  "priority": 500000,
+  "description": "Used by a user to indicate their confirmation to the asked question.",
+  "numTrainingPhrases": 270
+}

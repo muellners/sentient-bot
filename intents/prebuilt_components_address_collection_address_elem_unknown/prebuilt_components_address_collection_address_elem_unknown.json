@@ -1,0 +1,11 @@
+{
+  "name": "d31181ef-e31c-4f18-b1ed-b9259440ec97",
+  "displayName": "prebuilt_components_address_collection_address_elem_unknown",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-head",
+    "value": "sys-head"
+  } ],
+  "description": "Possible when a user is asked to provide a missing address element, but does not know it.",
+  "numTrainingPhrases": 348
+}

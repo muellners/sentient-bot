@@ -1,0 +1,427 @@
+{
+  "trainingPhrases": [ {
+    "id": "82d3bc6a-546c-4851-9b93-4cd97192d5d7",
+    "parts": [ {
+      "text": "I'm inclined to keep things as they are.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "65374469-e668-48e9-af35-c32f85d4ebdb",
+    "parts": [ {
+      "text": "I'm satisfied with the current state, no changes necessary.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "1d5b3a40-538c-46b6-b74c-59e366c0c6f0",
+    "parts": [ {
+      "text": "nothing",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b5853eba-4f01-4c3a-925c-cc6eaf47055a",
+    "parts": [ {
+      "text": "Let's move without changing anything",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "2a54082c-7019-4bf3-af0a-5bf603b685ca",
+    "parts": [ {
+      "text": "Let's not alter anything",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f5e6beee-0aa5-493b-8d36-d42ead82f2a8",
+    "parts": [ {
+      "text": "I don't think we require any modification",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6db14e50-317c-47e4-8d16-28d8cb5d825b",
+    "parts": [ {
+      "text": "Let's move forward without any modification",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "dbb204dc-c79c-4911-b4d3-c1c173e889c3",
+    "parts": [ {
+      "text": "Ignore whatever I said",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "a8e6c7f6-dfa1-4b6e-9a5b-4a467ab4fe16",
+    "parts": [ {
+      "text": "It appears that I was mistaken.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "8532db3c-c9cd-4377-9131-965c852fca11",
+    "parts": [ {
+      "text": "I apologise; it appears that nothing is wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "990e572f-f1b0-477e-9b7f-7b225ff2bce0",
+    "parts": [ {
+      "text": "I apologise; everything appears to be in order.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "1dd4456c-5fb1-420f-b377-fe30f139ed2c",
+    "parts": [ {
+      "text": "Ignore my previous query, everything seems okay",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7ab98ff7-2cc8-4361-ae50-1626a1ff7180",
+    "parts": [ {
+      "text": "Really nothing needs to be changed",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7e62b1e3-ae5f-4af5-9159-a2dc070eadbc",
+    "parts": [ {
+      "text": "Actually there isn't any need of modification",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "2c73ad86-8e48-4cde-8890-bd04f14bca07",
+    "parts": [ {
+      "text": "Nothing to modify",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "873a47ee-9268-449b-8098-81b42120c9a8",
+    "parts": [ {
+      "text": "Actually, nothing needs to be altered. It's all good now.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6c0818d2-4229-423c-ae8c-b994afad83c8",
+    "parts": [ {
+      "text": "It appears to be fantasic",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "960ce831-75db-4a99-a492-a0f15178e652",
+    "parts": [ {
+      "text": "You know what? It looks amazing",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "dd100f70-19ac-4f56-9b06-c7f688c02e3d",
+    "parts": [ {
+      "text": "I shifted my opinion. It appears amazing.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "04ad331d-5d6a-4786-a504-ef6da2e2b670",
+    "parts": [ {
+      "text": "Everything seems okay",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "ecb2387d-dc3c-4678-947d-a669c2fa3791",
+    "parts": [ {
+      "text": "Everything looks fine actually",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "018b40cb-1369-466a-8237-b8f642f0f035",
+    "parts": [ {
+      "text": "It's all good",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "d8beb26f-9f13-40c3-a480-cfde3cc37043",
+    "parts": [ {
+      "text": "Actually all is well",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "15b81ea4-c37a-4bbd-b6d7-8fd2135cc3ff",
+    "parts": [ {
+      "text": "It looks right actually. Let's proceed",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "14a393d5-6e2f-431f-a791-466a64b80f5c",
+    "parts": [ {
+      "text": "Actually I am satisfied with it, sorry",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "4ba9641f-0391-47f4-99cf-2b2c1e7c3896",
+    "parts": [ {
+      "text": "It's adequate",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "e7471bbf-1f66-4716-b031-f0171048d8f7",
+    "parts": [ {
+      "text": "It appears to be adequate.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "3cddb55b-585f-44e2-a61d-1219de9e9d45",
+    "parts": [ {
+      "text": "It's actually correct, I was wrong",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "7effba5c-7114-4448-83a8-f4ea222272ee",
+    "parts": [ {
+      "text": "It seems alright",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "de9beebf-1f7e-40ca-b4c5-675a874d4984",
+    "parts": [ {
+      "text": "It appears to be fine.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f27643a9-8a5b-4016-ab23-9bcfdbc48fa1",
+    "parts": [ {
+      "text": "It appears to be satisfactory.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b6f37f90-283b-48f5-973a-af6e9f51674d",
+    "parts": [ {
+      "text": "Change of mind, it's all fine",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "3cf21f3c-86d9-4580-ac48-a757efc899bd",
+    "parts": [ {
+      "text": "Nothing to be changed actually. It's all alright",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "17b2b7b1-09b1-428d-82e0-f872206d3c2a",
+    "parts": [ {
+      "text": "Actually, all good",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "ed68016c-14ec-4d65-9b18-0221042bdfcb",
+    "parts": [ {
+      "text": "I reconsidered. It appears to be fantastic.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "715c218e-57f9-4324-a35f-e54c2ce3e741",
+    "parts": [ {
+      "text": "I changed my mind. It looks fantastic.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "057b5515-b9fc-4e13-b5a6-c2f285e26ecf",
+    "parts": [ {
+      "text": "I had a change of heart. It appears to be excellent.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "fb265e34-6322-4d1d-90a7-cc38b69b93bb",
+    "parts": [ {
+      "text": "I changed my mind it looks great",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "156226b0-1728-430e-9f8b-6900950f53ab",
+    "parts": [ {
+      "text": "I retract! It's all OK.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "f6c1aa4f-4ec1-450a-88c4-b8a87a84d89f",
+    "parts": [ {
+      "text": "I retract that! It's all fine",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "60f2ee6c-5d2c-4fce-9eb4-9aa0554f0562",
+    "parts": [ {
+      "text": "I retract my statement! Everything is fine.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "773098a1-4579-44c9-aa1c-3455398bf16b",
+    "parts": [ {
+      "text": "I take that back! It's all good",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "c9638597-54e3-4415-a45b-27ad927be91e",
+    "parts": [ {
+      "text": "Actually, everything appears to be fine.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "04811970-f667-4312-abca-96f553453ad0",
+    "parts": [ {
+      "text": "Actually everything seems alright",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "6af43565-3a52-409a-9b3f-48bc609fb10b",
+    "parts": [ {
+      "text": "You know what? All looks great",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "c47d0366-9c0a-481e-a18d-fe6ea93fa5ed",
+    "parts": [ {
+      "text": "Actually you know what everythings seems ok",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "ce30858b-5ec2-4ef8-b7d7-c6a7dde47c20",
+    "parts": [ {
+      "text": "Actually, everything appears to be in order.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "141d3e8d-d056-40f8-ae63-59a38762fcc5",
+    "parts": [ {
+      "text": "You know what, everything appears to be in order.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "592c7d30-8a22-47a7-a3ec-e8c5975aaffd",
+    "parts": [ {
+      "text": "Everything is ok.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "c9627b9f-0937-4233-8e00-4f52ed080585",
+    "parts": [ {
+      "text": "Sorry I was wrong, everything looks fine.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b6480c8f-6641-4d2d-a033-28743a6e44e0",
+    "parts": [ {
+      "text": "Nothing to change, sorry.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "bcb8457c-4e2b-4e11-bdcb-74ae1ba4e3cb",
+    "parts": [ {
+      "text": "You know what, everything looks fine actually.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  }, {
+    "id": "b67a2c28-a04c-4e4d-ac7a-174b02919fa3",
+    "parts": [ {
+      "text": "Actually, everything is correct.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-gb"
+  } ]
+}

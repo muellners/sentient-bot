@@ -1,0 +1,427 @@
+{
+  "trainingPhrases": [ {
+    "id": "e061dc75-1909-4e04-90d8-ce8dfcd999d9",
+    "parts": [ {
+      "text": "postal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "19c2eaa2-ecb1-4af2-930a-bddd10782a56",
+    "parts": [ {
+      "text": "Apparently, the postal code is incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "781ece4d-8a6a-4d7d-8c13-9ffd0599b663",
+    "parts": [ {
+      "text": "Postal code seems somewhat inaccurate",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7bd60a57-50d9-4778-9a4a-3f75d038ba8e",
+    "parts": [ {
+      "text": "I wish to change the postal code.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "ea8ef0af-d7fb-451e-ae26-663a2f896262",
+    "parts": [ {
+      "text": "The postal code should be changed.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "3882db18-5b70-47ef-b99a-f123162e4dc7",
+    "parts": [ {
+      "text": "I'd like to modify the postal code",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "1214e973-aa9c-4442-bff7-a899969250ed",
+    "parts": [ {
+      "text": "There is a problem with the postal code.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "c7646e20-34a2-4381-9545-f822c670b2b9",
+    "parts": [ {
+      "text": "The postal code is not entirely accurate.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "93b133d6-00f4-4fce-acec-28aadd8a43cb",
+    "parts": [ {
+      "text": "A problem exists with the postal code.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "1ccaed1b-f1f5-4329-8b94-fd8753639671",
+    "parts": [ {
+      "text": "The postal code has some problems.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "b5ceab91-2ad1-41f8-b92b-36941134a1a8",
+    "parts": [ {
+      "text": "There is some issue with the postal code",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "35914567-39a4-4ea2-b9eb-2a4d80c521a4",
+    "parts": [ {
+      "text": "Please update my postal code.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "067d2608-49bb-4852-bf1a-c2e812b17cb9",
+    "parts": [ {
+      "text": "Fix my postal code, please.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "78700b8b-57c7-4164-8aa1-ebb38ec621c9",
+    "parts": [ {
+      "text": "My postal code needs to be updated.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "8c06cf17-4a4e-4b8d-aab7-5b231625a7d6",
+    "parts": [ {
+      "text": "You must update my postal code.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "65a2a632-823d-408d-a4cc-ebd28003d780",
+    "parts": [ {
+      "text": "The postal code appears to be incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "06950beb-b387-449a-9c98-f8e7307a80ef",
+    "parts": [ {
+      "text": "The postal code is probably incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "02f37e84-b60d-4e4f-bc93-cd967ad9493d",
+    "parts": [ {
+      "text": "The postal code seems to be incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "9f9e728e-a5a0-443c-9db9-dd87afcc961e",
+    "parts": [ {
+      "text": "I think the postal code is off.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "77072dbf-ef38-470c-9cd4-b8ffd5606f35",
+    "parts": [ {
+      "text": "I think the postal code is inaccurate.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "abdc2416-3b11-460a-a8a9-09f51640d1df",
+    "parts": [ {
+      "text": "The postal code appears to be wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "9462a3ab-0e51-431c-8a6a-a2db8a8ca327",
+    "parts": [ {
+      "text": "The postal code, in my opinion, is erroneous.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "5aeb36bc-dd1f-4bb3-9a5b-cd0ee7d439dd",
+    "parts": [ {
+      "text": "The postal code is wrong, in my opinion.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "d0550fd8-baa2-476a-ac32-0ead944f67b4",
+    "parts": [ {
+      "text": "It appears to me that you said the postal code incorrectly.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "6436a5c4-c58c-4b13-af2b-2cda744ea77e",
+    "parts": [ {
+      "text": "Looks like you got the postal code wrong.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "1941c22f-fc8b-4207-867f-48d7f5ea2214",
+    "parts": [ {
+      "text": "It appears that the zip code is invalid.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "0ab8fbe0-8b73-4394-86bd-5376c16dc453",
+    "parts": [ {
+      "text": "The post code does not appear to be correct.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "b5b4d601-98f7-49ec-a7c2-bac937324093",
+    "parts": [ {
+      "text": "The postal code appears to be invalid.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "f898e7f8-16b1-4e40-af93-eaa7f558ccff",
+    "parts": [ {
+      "text": "The zip code does not appear to be correct.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "1afaabc8-a379-44fd-9cf9-15175fa10ff0",
+    "parts": [ {
+      "text": "Zip code doesn't seem alright",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "c105901a-5c3d-4866-9968-1fef548d2178",
+    "parts": [ {
+      "text": "I believe you used an invalid zip code.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "5abcf01a-368c-438a-842f-6a17bff17a91",
+    "parts": [ {
+      "text": "I think you have an incorrect zip code in the address you shared",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "06e9a4a5-64a7-46e8-8288-c1a3046a6e48",
+    "parts": [ {
+      "text": "I believe the zip code is incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "30f359bf-d81a-444c-b92e-5dd913011040",
+    "parts": [ {
+      "text": "I believe the postal code you said is invalid",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "93a69cbe-75d1-442d-b0d9-3eeab10bc04c",
+    "parts": [ {
+      "text": "I believe you got the incorrect postal code.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "8a489cbf-3793-4f06-bc4c-b81237482b1f",
+    "parts": [ {
+      "text": "I believe you mistyped the postal code.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "2b6fb07f-a57a-43e7-833a-cdbbd4db9632",
+    "parts": [ {
+      "text": "I think you didn't get the right postal code",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "1a3bb7a1-37e9-475c-8219-b853cb043f51",
+    "parts": [ {
+      "text": "The postal code is not correct.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "9d593310-8fc2-43bf-8f7b-36ae322e4ff4",
+    "parts": [ {
+      "text": "The postal code is incorrect.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "604e4696-0534-4ada-9db0-50919ebf772c",
+    "parts": [ {
+      "text": "I think you got postal code incorrect",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "40745ac8-3b3d-43ab-a376-498a0f4c7f9d",
+    "parts": [ {
+      "text": "Incorrect Zip Code",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "98ce1a18-e069-4f0c-b7d5-423b7951a033",
+    "parts": [ {
+      "text": "Invalid Postal Code",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "e5b4563c-183b-4dd0-af05-81410680fd34",
+    "parts": [ {
+      "text": "Code looks invalid",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "78db3e1c-0cde-45ad-b020-6bb0f1cdd136",
+    "parts": [ {
+      "text": "Postal code seems to be incorrect",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "c430a0e6-b62b-4840-a39a-2cdd1ffab118",
+    "parts": [ {
+      "text": "Post code doesn't seem alright",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "b88857a8-b1e2-4b8a-a9e4-b1f72d713140",
+    "parts": [ {
+      "text": "Post code seems to be invalid",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "7be511c1-5846-43a8-9a6a-a460dacef8ac",
+    "parts": [ {
+      "text": "Zip code is incorrect",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "11477603-ebe3-44aa-bf42-1f49aca1ceaf",
+    "parts": [ {
+      "text": "The postal code is wrong",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "d2baa414-7ff5-4fd2-be64-02e7b6a7ad33",
+    "parts": [ {
+      "text": "Post code is incorrect",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "9718dac0-e0ed-4dfa-9b77-cc3f83bc9bc9",
+    "parts": [ {
+      "text": "You did not get the postal code wrong",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "76da2154-846d-48ee-811f-7d1222ce78f5",
+    "parts": [ {
+      "text": "You need to correct my postal code",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "d5053ebc-d322-48a5-b212-402768620848",
+    "parts": [ {
+      "text": "Postal code is off",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  }, {
+    "id": "b2a6735f-ec2b-4659-ade8-073a064ac398",
+    "parts": [ {
+      "text": "Code is wrong",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-ca"
+  } ]
+}

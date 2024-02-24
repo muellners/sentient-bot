@@ -1,0 +1,80 @@
+{
+  "trainingPhrases": [ {
+    "id": "3243fc77-6277-4f17-9f85-61e767d4c991",
+    "parts": [ {
+      "text": "Can you please provide a playback?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "c5fe7581-bc8a-4b0c-ac87-4f42ff9397b2",
+    "parts": [ {
+      "text": "read that back to me"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "81f1e4c6-fbef-442b-9797-4aaf4a539269",
+    "parts": [ {
+      "text": "I didn't catch that, can you play it back?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "09b2afad-c8ca-46da-91c3-094cd3efefd2",
+    "parts": [ {
+      "text": "I want to play it back"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "4aab15d7-09b1-4db5-9f04-1cd698c6ff41",
+    "parts": [ {
+      "text": "Playback again"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "5a7afb04-f41b-45b6-8109-627204384822",
+    "parts": [ {
+      "text": "playback one more time"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "9af78c06-7f73-4cd8-8515-73aa817ec3f6",
+    "parts": [ {
+      "text": "Play it"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "5a94c0c6-a73a-42de-8978-1b8ee17b1947",
+    "parts": [ {
+      "text": "Play back"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "965ce483-ab34-484f-aadf-bca05e4b2e0f",
+    "parts": [ {
+      "text": "Play it back"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "69d67125-2b56-4e94-b2f6-ea5c6b700021",
+    "parts": [ {
+      "text": "Play that back please"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "ec4d6262-9f0c-45f2-8529-1302438225bf",
+    "parts": [ {
+      "text": "Playback"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}
